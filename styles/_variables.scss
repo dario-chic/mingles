@@ -1,0 +1,39 @@
+:root {
+  --font1: "Roboto", sans-serif;
+  --font2: "Nunito", sans-serif;
+  //
+  --general-padding: clamp(1.56rem, calc(-1.77rem + 16.67vw), 6.25rem);
+  --max-width: 1024px;
+  --content-width: 900px;
+  //
+  --margin-i: 50px;
+  --section-margin: 60px;
+  //
+  --big-border-r: 10px;
+  --small-border-r: 5px;
+  //
+  --box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 15px;
+  --box-small-shadow: rgba(0, 0, 0, 0.25) 0px 3px 010px;
+  //
+  --fast-transition: all 0.15s ease-in-out;
+  --slow-transition: all 0.5s ease-in-out;
+  --btn-bg: transparent;
+}
+
+@media screen and (min-width: 480px) {
+  :root {
+    --margin-i: 80px;
+  }
+}
+
+@media screen and (min-width: 770px) {
+  :root {
+    --general-padding: clamp(6.25rem, calc(16.85rem + -22.03vw), 0rem);
+  }
+}
+
+@media screen and (min-width: 1225px) {
+  :root {
+    --general-padding: 0px;
+  }
+}
