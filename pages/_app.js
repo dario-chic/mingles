@@ -1,57 +1,7 @@
-import Head from "next/head";
 import "../styles/index.scss";
 
 function MyApp({ Component, pageProps }) {
-  return (
-    <>
-      <Head>
-        <meta charSet="utf-8" />
-        <link rel="icon" href="logo.ico" type="image/ico" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="theme-color" content="#151b25" />
-        <title>Mingles - Aprende inglés fácilmente</title>
-        <meta
-          name="description"
-          content="Aprende inglés fácil y rápido en Mingles, una comunidad gratuita para prácticar, mejorar tu inglés y divertirte junto con otros hablantes."
-        />
-
-        <meta name="author" content="Dario Chic" />
-        <meta
-          name="keywords"
-          content="aprender ingles, comunidad en ingles, aprender ingles gratis, mingles, mingle, como aprender ingles, hablar ingles con otros"
-        />
-        <meta name="robots" content="index" />
-        {/* <meta name="image" content="portfolio-web.JPG" /> */}
-        {/* <link rel="canonical" href="https://www.mingles.com/" /> */}
-        <link rel="apple-touch-icon" sizes="192x192" href="logo192x192.png" />
-        <link rel="apple-touch-icon" sizes="512x512" href="logo512x512.png" />
-
-        <meta
-          property="og:title"
-          content="Mingles - Aprende inglés fácilmente"
-        />
-        <meta
-          property="og:description"
-          content="Aprende inglés fácil y rápido en Mingles, una comunidad gratuita para prácticar, mejorar tu inglés y divertirte junto con otros hablantes."
-        />
-        <meta property="og:image" content="portfolio-web.JPG" />
-        <meta property="og:url" content="https://www.mingles.com/" />
-        <meta property="og:type" content="website" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:creator" content="@mingles" />
-        <meta
-          name="twitter:title"
-          content="Mingles - Aprende inglés fácilmente"
-        />
-        <meta
-          name="twitter:description"
-          content="Aprende inglés fácil y rápido en Mingles, una comunidad gratuita para prácticar, mejorar tu inglés y divertirte junto con otros hablantes."
-        />
-        {/* <meta name="twitter:image" content="portfolio-web.JPG" /> */}
-      </Head>
-      <Component {...pageProps} />
-    </>
-  );
+  return <Component {...pageProps} />;
 }
 
 export default MyApp;

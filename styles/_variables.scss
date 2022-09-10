@@ -1,39 +1,44 @@
 :root {
+  --color1: rgb(5, 154, 222);
+  --color1-90: rgba(5, 154, 222, 0.9);
+  --color2: #d53849;
+  --color3: rgb(240, 249, 253);
+  --color4: #82cdef;
+  --color5: #05367c;
+  --color6: #01141c;
+  //
   --font1: "Roboto", sans-serif;
   --font2: "Nunito", sans-serif;
   //
+  --border: 3px;
+  --box-shadow: #01141ca6 0px 5px 11px;
+
   --general-padding: clamp(1.56rem, calc(-1.77rem + 16.67vw), 6.25rem);
+  --content-padding: 25px;
   --max-width: 1024px;
   --content-width: 900px;
-  //
-  --margin-i: 50px;
-  --section-margin: 60px;
-  //
-  --big-border-r: 10px;
-  --small-border-r: 5px;
-  //
-  --box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 15px;
-  --box-small-shadow: rgba(0, 0, 0, 0.25) 0px 3px 010px;
-  //
-  --fast-transition: all 0.15s ease-in-out;
-  --slow-transition: all 0.5s ease-in-out;
-  --btn-bg: transparent;
-}
 
-@media screen and (min-width: 480px) {
-  :root {
-    --margin-i: 80px;
-  }
+  --fast-transition: all 0.2s ease-in-out;
+  --slow-transition: all 0.4s ease-in-out;
 }
 
 @media screen and (min-width: 770px) {
   :root {
     --general-padding: clamp(6.25rem, calc(16.85rem + -22.03vw), 0rem);
+    --content-padding: 25px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  :root {
+    --content-padding: 50px;
   }
 }
 
 @media screen and (min-width: 1225px) {
   :root {
     --general-padding: 0px;
+
+    --content-padding: 80px;
   }
 }

@@ -1,0 +1,127 @@
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 999999;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 4.375rem;
+  padding-inline: var(--content-padding);
+  background-color: var(--color1);
+  transition: var(--fast-transition);
+  transition: top 0.4s ease-in-out;
+  &.down {
+    top: -100%;
+  }
+  &.up {
+    box-shadow: 0px 2px 3px 1px rgba(1, 20, 28, 0.251);
+  }
+  &.active {
+    border-bottom-right-radius: 0px;
+    position: sticky;
+    top: 0;
+    &__list {
+      right: 0;
+    }
+  }
+
+  &__logo {
+    width: 2.563rem;
+    img {
+      width: 100%;
+    }
+  }
+
+  &__bar {
+    width: 2.5rem;
+    cursor: pointer;
+    #nav__bar path {
+      stroke: var(--color3);
+    }
+    &:hover {
+      #nav__bar path {
+        stroke: var(--color5);
+      }
+    }
+  }
+
+  &__transparent {
+    position: absolute;
+    z-index: -1;
+    top: 4.375rem;
+    right: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: transparent;
+    visibility: hidden;
+    &.active {
+      visibility: visible;
+    }
+  }
+
+  &__list {
+    position: fixed;
+    top: 4.375rem;
+    right: -98%;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    max-width: 40.625rem; // 650px
+    height: calc(100vh - 70px);
+    text-align: center;
+    opacity: 0;
+    background-color: var(--color1-90);
+    transition: var(--fast-transition);
+    &.active {
+      right: 0;
+      opacity: 1;
+    }
+  }
+
+  &__item {
+    margin-bottom: 3rem;
+    list-style: none;
+    font-family: var(--font1);
+    font-weight: 500;
+    opacity: 0.85;
+    font-size: 1.4rem;
+    color: var(--color3);
+  }
+
+  &__link {
+    transition: var(--fast-transition);
+  }
+
+  &__link.active,
+  &__link:hover {
+    color: var(--color2);
+    opacity: 1;
+  }
+
+  @media screen and (min-width: 900px) {
+    .nav {
+      &__bar {
+        display: none;
+      }
+      &__list {
+        position: static;
+        flex-direction: row;
+        align-items: center;
+        opacity: 1;
+        height: fit-content;
+        width: fit-content;
+        background-color: none;
+      }
+
+      &__item {
+        margin-bottom: 0;
+        font-size: 1.063rem; //17px
+        margin-left: 2rem;
+      }
+    }
+  }
+}
