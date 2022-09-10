@@ -53,7 +53,7 @@ const Nav = () => {
     >
       <Link href="/#inicio">
         <picture className="nav__logo">
-          <img src="/logo.png" alt="aguacandy-logo" />
+          <img src="/mingles-full-logo.png" alt="aguacandy-logo" />
         </picture>
       </Link>
       <span className="nav__bar" onClick={handleNav}>

@@ -10,7 +10,7 @@
   padding-inline: var(--content-padding);
   background-color: var(--color1);
   transition: var(--fast-transition);
-  transition: top 0.4s ease-in-out;
+  transition: top 0.25s ease-in-out;
   &.down {
     top: -100%;
   }
@@ -27,7 +27,9 @@
   }
 
   &__logo {
-    width: 2.563rem;
+    display: flex;
+    align-items: center;
+    width: 90px;
     img {
       width: 100%;
     }
@@ -85,20 +87,20 @@
   &__item {
     margin-bottom: 3rem;
     list-style: none;
-    font-family: var(--font1);
-    font-weight: 500;
-    opacity: 0.85;
     font-size: 1.4rem;
-    color: var(--color3);
+    font-family: var(--font1);
   }
 
   &__link {
+    opacity: 0.75;
+    color: var(--color3);
+    font-weight: 600;
     transition: var(--fast-transition);
   }
 
   &__link.active,
   &__link:hover {
-    color: var(--color2);
+    color: var(--color3);
     opacity: 1;
   }
 
