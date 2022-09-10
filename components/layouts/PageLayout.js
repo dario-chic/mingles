@@ -1,8 +1,9 @@
 import Head from "next/head";
 import React from "react";
+import Header from "../Header";
 import Nav from "./Nav";
 
-const PageLayout = ({ children, title, description }) => {
+const PageLayout = ({ children, title, description, header }) => {
   return (
     <>
       <Head>
@@ -60,6 +61,7 @@ const PageLayout = ({ children, title, description }) => {
         {/* <meta name="twitter:image" content="portfolio-web.JPG" /> */}
       </Head>
       <Nav />
+      {header && <Header />}
       <main>{children}</main>
     </>
   );

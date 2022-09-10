@@ -1,5 +1,6 @@
+import Header from "../components/Header";
 import PageLayout from "../components/layouts/PageLayout";
 
 export default function Home() {
-  return <PageLayout></PageLayout>;
+  return <PageLayout header={true}></PageLayout>;
 }

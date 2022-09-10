@@ -20,14 +20,21 @@ a {
 }
 
 .btn {
-  background-color: var(--color2);
   z-index: 999;
   display: flex;
   align-items: center;
+  width: fit-content;
+  height: fit-content;
   padding: 0.5rem 1.1rem;
   border-radius: var(--border);
   font-family: var(--font1);
   font-weight: 500;
+  background-color: var(--color2);
+
+  &:hover {
+    opacity: 0.9;
+    outline: solid 2px var(--color1);
+  }
 
   &__discord {
     svg {
@@ -36,9 +43,23 @@ a {
       margin-right: 0.25rem;
       path {
         fill: var(--color3);
+        // stroke: var(--color3);
+      }
+    }
+
+    &.big {
+      font-size: clamp(1rem, calc(0.89rem + 0.54vw), 1.38rem);
+      svg {
+        width: clamp(1.44rem, calc(1.29rem + 0.71vw), 1.94rem);
+        height: clamp(1.06rem, calc(0.96rem + 0.54vw), 1.44rem) 0.083rem;
+        margin-right: 0.25rem;
+        path {
+          fill: var(--color3);
+        }
       }
     }
   }
 }
 
 @import "nav";
+@import "header";

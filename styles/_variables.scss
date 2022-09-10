@@ -2,7 +2,7 @@
   --color1: rgb(5, 154, 222);
   --color1-90: rgba(5, 154, 222, 0.9);
   --color2: #d53849;
-  --color3: rgb(240, 249, 253);
+  --color3: #f0f9fd;
   --color4: #82cdef;
   --color5: #05367c;
   --color6: #01141c;
@@ -13,9 +13,9 @@
   --border: 3px;
   --box-shadow: #01141ca6 0px 5px 11px;
 
-  --general-padding: clamp(1.56rem, calc(-1.77rem + 16.67vw), 6.25rem);
+  --general-padding: clamp(1.56rem, calc(-0.67rem + 11.16vw), 9.38rem);
   --content-padding: 25px;
-  --max-width: 1024px;
+  --max-width: 1124px;
   --content-width: 900px;
 
   --fast-transition: all 0.2s ease-in-out;
@@ -24,7 +24,7 @@
 
 @media screen and (min-width: 770px) {
   :root {
-    --general-padding: clamp(6.25rem, calc(16.85rem + -22.03vw), 0rem);
+    --general-padding: clamp(1.56rem, calc(-0.67rem + 11.16vw), 9.38rem);
     --content-padding: 25px;
   }
 }

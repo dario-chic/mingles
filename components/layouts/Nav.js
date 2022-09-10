@@ -39,6 +39,7 @@ const Nav = () => {
         }
 
         lastScrollTop = actualScroll <= 0 ? 0 : actualScroll; // For Mobile or negative scrolling
+        if (actualScroll === 0) setScroll("inicio");
       },
       false
     );
