@@ -6,7 +6,12 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p className="footer__copy">Creado por Mingles - 2022</p>
-      <img src="mingles-full-logo.png" alt="Logo de mingles" />
+      <img
+        width="auto"
+        height="auto"
+        src="mingles-full-logo.png"
+        alt="Logo de mingles"
+      />
       <div className="footer__social">
         <a
           href="https://discord.gg/P2aGSpg8cr"

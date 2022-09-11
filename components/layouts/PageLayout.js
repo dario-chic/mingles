@@ -27,8 +27,8 @@ const PageLayout = ({ children, title, description, header }) => {
           content="aprender ingles, comunidad en ingles, aprender ingles gratis, mingles, mingle, como aprender ingles, hablar ingles con otros"
         />
         <meta name="robots" content="index" />
-        {/* <meta name="image" content="portfolio-web.JPG" /> */}
-        {/* <link rel="canonical" href="https://www.mingles.com/" /> */}
+        <meta name="image" content="portada.webp" />
+        <link rel="canonical" href="https://www.mingles.com/" />
         <link rel="apple-touch-icon" sizes="192x192" href="logo192x192.png" />
         <link rel="apple-touch-icon" sizes="512x512" href="logo512x512.png" />
 
@@ -43,7 +43,7 @@ const PageLayout = ({ children, title, description, header }) => {
             "Aprende inglés fácil y rápido en Mingles, una comunidad gratuita para prácticar, mejorar tu inglés y divertirte junto con otros hablantes."
           }
         />
-        {/* <meta property="og:image" content="portfolio-web.JPG" /> */}
+        <meta property="og:image" content="portada.webp" />
         <meta property="og:url" content="https://www.mingles.com/" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -59,7 +59,7 @@ const PageLayout = ({ children, title, description, header }) => {
             "Aprende inglés fácil y rápido en Mingles, una comunidad gratuita para prácticar, mejorar tu inglés y divertirte junto con otros hablantes."
           }
         />
-        {/* <meta name="twitter:image" content="portfolio-web.JPG" /> */}
+        <meta name="twitter:image" content="portada.webp" />
       </Head>
       <Nav />
       {header && <Header />}

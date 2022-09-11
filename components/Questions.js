@@ -31,7 +31,13 @@ const questions = [
 
 const Questions = () => {
   return (
-    <div className="questions">
+    <div
+      className="questions"
+      data-aos="fade-up"
+      data-aos-duration="800"
+      data-aos-delay="500"
+      once="true"
+    >
       <div className="questions__container">
         <h2 className="questions__title">FAQ</h2>
         <div className="questions__details">
