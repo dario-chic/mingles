@@ -16,10 +16,9 @@
     font-family: var(--font2);
     color: var(--color3);
     list-style: none;
-    opacity: 0.9;
+    opacity: 1;
     cursor: pointer;
     &:hover {
-      opacity: 1;
       color: var(--color5);
       path {
         fill: var(--color5);
