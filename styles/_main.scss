@@ -83,3 +83,41 @@
     }
   }
 }
+
+.footer {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+  justify-content: center;
+  justify-items: center;
+  padding-inline: var(--content-padding);
+  padding-block: 3rem;
+  font-family: var(--font2);
+  color: var(--color3);
+  font-weight: 700;
+  background-color: var(--color1);
+
+  img {
+    max-width: 150px;
+  }
+
+  &__social {
+    display: flex;
+    align-items: center;
+    svg {
+      width: 30px;
+      height: auto;
+      cursor: pointer;
+      margin-inline: 0.5rem;
+      &:hover {
+        path {
+          opacity: 1;
+        }
+      }
+      path {
+        fill: var(--color2);
+        transition: var(--fast-transition);
+      }
+    }
+  }
+}

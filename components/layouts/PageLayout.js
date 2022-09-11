@@ -1,6 +1,7 @@
 import Head from "next/head";
 import React from "react";
 import Header from "../Header";
+import Footer from "./Footer";
 import Nav from "./Nav";
 
 const PageLayout = ({ children, title, description, header }) => {
@@ -42,7 +43,7 @@ const PageLayout = ({ children, title, description, header }) => {
             "Aprende inglés fácil y rápido en Mingles, una comunidad gratuita para prácticar, mejorar tu inglés y divertirte junto con otros hablantes."
           }
         />
-        <meta property="og:image" content="portfolio-web.JPG" />
+        {/* <meta property="og:image" content="portfolio-web.JPG" /> */}
         <meta property="og:url" content="https://www.mingles.com/" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -63,6 +64,7 @@ const PageLayout = ({ children, title, description, header }) => {
       <Nav />
       {header && <Header />}
       <main>{children}</main>
+      <Footer />
     </>
   );
 };

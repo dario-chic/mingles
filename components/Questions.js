@@ -33,7 +33,7 @@ const Questions = () => {
   return (
     <div className="questions">
       <div className="questions__container">
-        <h2 className="questions__title">Preguntas Frecuentes</h2>
+        <h2 className="questions__title">FAQ</h2>
         <div className="questions__details">
           {questions.map((el, i) => (
             <details key={i} className="questions__detail">
