@@ -1,0 +1,45 @@
+.questions {
+  &__title {
+    text-align: center;
+  }
+
+  &__detail {
+    background-color: var(--color1);
+    padding: 1.3rem;
+    border-bottom: solid 1px #05367c50;
+  }
+
+  &__summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--font2);
+    color: var(--color3);
+    list-style: none;
+    opacity: 0.9;
+    cursor: pointer;
+    &:hover {
+      opacity: 1;
+      color: var(--color5);
+      path {
+        fill: var(--color5);
+      }
+    }
+    svg {
+      width: 10px;
+      height: auto;
+      path {
+        fill: var(--color3);
+      }
+    }
+  }
+
+  &__info {
+    margin-top: 1rem;
+    font-family: var(--font2);
+    color: var(--color3);
+    color: var(--color5);
+    font-size: 0.9rem;
+    line-height: 1.3;
+  }
+}
