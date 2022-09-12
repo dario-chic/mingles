@@ -37,7 +37,7 @@ const brief = [
 
 const About = () => {
   return (
-    <Section modifier="about">
+    <Section modifier="about" id="about">
       <h2 className="section__title section__title--about">About us</h2>
       <p
         className="section__description section__description--about"

@@ -17,7 +17,7 @@ Hay diferentes tipos de reuniones y estas se realizan tanto de forma oral, media
 
 const About = () => {
   return (
-    <Section modifier="meetings">
+    <Section modifier="meetings" id="meetings">
       <div className="section__text--container">
         <h2 className="section__title section__title--meetings">Meetings</h2>
         <p

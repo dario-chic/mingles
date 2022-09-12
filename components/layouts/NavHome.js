@@ -1,7 +1,9 @@
 import Link from "next/link";
 import React, { useEffect, useRef, useState } from "react";
+import Button from "../Button";
 import DiscordButton from "../DiscordButton";
 import BurguerBar from "../svg/BurguerBar";
+// import logo from "../assets/logo.png";
 
 const Nav = () => {
   const [scroll, setScroll] = useState("inicio");
@@ -10,13 +12,6 @@ const Nav = () => {
   const list = useRef();
 
   const handleNav = () => {
-    if (navIsActive) {
-      setNavIsActive(false);
-      document.body.classList.remove("navIsActive");
-    }
-  };
-
-  const handleBar = () => {
     if (navIsActive) {
       setNavIsActive(false);
       document.body.classList.remove("navIsActive");
@@ -62,7 +57,7 @@ const Nav = () => {
           <img src="/mingles-full-logo.png" alt="aguacandy-logo" />
         </picture>
       </Link>
-      <span className="nav__bar" onClick={handleBar}>
+      <span className="nav__bar" onClick={handleNav}>
         <BurguerBar id="nav__bar" />
       </span>
       <div
@@ -74,23 +69,8 @@ const Nav = () => {
         ref={list}
       >
         <li className="nav__item" onClick={handleNav}>
-          <Link className="nav__a" href="#about">
-            <a className="nav__a">About us</a>
-          </Link>
-        </li>
-        <li className="nav__item" onClick={handleNav}>
-          <Link className="nav__a" href="#our-school">
-            <a className="nav__a">School</a>
-          </Link>
-        </li>
-        <li className="nav__item" onClick={handleNav}>
-          <Link href="#meetings">
-            <a className="nav__a">Meetings</a>
-          </Link>
-        </li>
-        <li className="nav__item" onClick={handleNav}>
-          <Link className="nav__a" href="#faq">
-            <a className="nav__a">Questions</a>
+          <Link className="nav__link" href="/">
+            <a className="nav__link">Go Home</a>
           </Link>
         </li>
         <li className="nav__item" onClick={handleNav}>

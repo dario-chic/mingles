@@ -1,15 +1,18 @@
 import Head from "next/head";
+import Script from "next/script";
 import React from "react";
 import Header from "../Header";
 import Footer from "./Footer";
 import Nav from "./Nav";
+import NavHome from "./NavHome";
+import NavSchool from "./NavSchool";
 
-const PageLayout = ({ children, title, description, header }) => {
+const PageLayout = ({ children, title, description, header, nav = "" }) => {
   return (
     <>
       <Head>
         <meta charSet="utf-8" />
-        <link rel="icon" href="logo.ico" type="image/ico" />
+        <link rel="icon" href="/logo.ico" type="image/ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#151b25" />
         <title>{title || "Mingles - Aprende inglés fácilmente"}</title>
@@ -61,7 +64,14 @@ const PageLayout = ({ children, title, description, header }) => {
         />
         <meta name="twitter:image" content="portada.webp" />
       </Head>
-      <Nav />
+      <Script
+        src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"
+        strategy="afterInteractive"
+      />
+      {nav === "" && <Nav />}
+      {nav === "home" && <NavHome />}
+      {nav === "school" && <NavSchool />}
+
       {header && <Header />}
       <main>{children}</main>
       <Footer />

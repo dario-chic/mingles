@@ -9,7 +9,7 @@ const Footer = () => {
       <img
         width="auto"
         height="auto"
-        src="mingles-full-logo.png"
+        src="/mingles-full-logo.png"
         alt="Logo de mingles"
       />
       <div className="footer__social">

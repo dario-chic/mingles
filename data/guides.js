@@ -11,7 +11,7 @@ const guides = [
   {
     title: "Aprende a usar Anki como un experto.",
     description:
-      "Duscubre que es Anki, la mejor app para adquirir vocabulario, la herramienta por excelencia de los poligrotas.",
+      "Duscubre que es Anki y aprende a usar la mejor app para adquirir vocabulario, la herramienta por excelencia de los poligrotas.",
     img: "anki.jpg",
     link: "aprende-a-usar-anki-como-un-experto",
   },

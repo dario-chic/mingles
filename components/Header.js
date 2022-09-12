@@ -6,7 +6,7 @@ import Discord from "./svg/Discord";
 
 const Header = () => {
   return (
-    <header className="header">
+    <header className="header" id="home">
       <div className="header__info">
         <div className="header__text">
           {" "}

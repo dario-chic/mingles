@@ -1,5 +1,7 @@
+import Link from "next/link";
 import React from "react";
 import guides from "../data/guides";
+import Button from "./Button";
 import Guide from "./Guide";
 import Section from "./Section";
 
@@ -17,7 +19,7 @@ Claramente tomar estas guías no es obligatorio para ser parte de la comunidad, 
 
 const School = () => {
   return (
-    <Section modifier="school">
+    <Section modifier="school" id="our-school">
       {" "}
       <h2 className="section__title section__title--about">Our School</h2>
       <p
@@ -29,6 +31,9 @@ const School = () => {
           <Guide key={i} element={el} />
         ))}
       </div>
+      <Link href="/school">
+        <Button className="btn btn__school">Ver más</Button>
+      </Link>
     </Section>
   );
 };
