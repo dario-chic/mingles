@@ -37,6 +37,18 @@ a {
     outline: solid 2px var(--color1);
   }
 
+  &.big {
+    font-size: clamp(1rem, calc(0.89rem + 0.54vw), 1.38rem);
+    svg {
+      width: clamp(1.44rem, calc(1.29rem + 0.71vw), 1.94rem);
+      height: clamp(1.06rem, calc(0.96rem + 0.54vw), 1.44rem) 0.083rem;
+      margin-right: 0.25rem;
+      path {
+        fill: var(--color3);
+      }
+    }
+  }
+
   &__discord {
     svg {
       width: 1.448rem;
@@ -45,18 +57,6 @@ a {
       path {
         fill: var(--color3);
         // stroke: var(--color3);
-      }
-    }
-
-    &.big {
-      font-size: clamp(1rem, calc(0.89rem + 0.54vw), 1.38rem);
-      svg {
-        width: clamp(1.44rem, calc(1.29rem + 0.71vw), 1.94rem);
-        height: clamp(1.06rem, calc(0.96rem + 0.54vw), 1.44rem) 0.083rem;
-        margin-right: 0.25rem;
-        path {
-          fill: var(--color3);
-        }
       }
     }
   }

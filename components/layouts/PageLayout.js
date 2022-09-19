@@ -64,14 +64,10 @@ const PageLayout = ({ children, title, description, header, nav = "" }) => {
         />
         <meta name="twitter:image" content="portada.webp" />
       </Head>
-      <Script
-        src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"
-        strategy="afterInteractive"
-      />
+      <Script src="/showdown.min.js" />
       {nav === "" && <Nav />}
       {nav === "home" && <NavHome />}
       {nav === "school" && <NavSchool />}
-
       {header && <Header />}
       <main>{children}</main>
       <Footer />

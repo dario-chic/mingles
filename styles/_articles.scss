@@ -1,4 +1,5 @@
 .article {
+  width: 100%;
   h1,
   h2,
   h3,
@@ -10,15 +11,106 @@
   }
 
   h1 {
-    font-size: 3rem;
+    font-size: clamp(2rem, calc(1.65rem + 1.74vw), 3rem);
     text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.6rem;
+  }
+
+  a {
+    position: relative;
+    color: var(--color2);
+    &::before {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 100%;
+      margin: auto;
+      content: "";
+      width: 95%;
+      height: 1px;
+      background-color: var(--color2);
+      transform-origin: left;
+      transform: scaleX(0%);
+      transition: var(--fast-transition);
+    }
+    &::after {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 95%;
+      margin: auto;
+      content: "";
+      width: 100%;
+      height: 1px;
+      background-color: var(--color2);
+      transform-origin: right;
+      transform: scaleX(0%);
+      transition: var(--fast-transition);
+    }
+    &:hover,
+    &:active {
+      &::before,
+      &::after {
+        transform: scaleX(50%);
+      }
+    }
   }
 
   p,
   span {
+    margin-bottom: 1.5rem;
     font-family: var(--font2);
     color: var(--color6);
-    line-height: 1.3;
-    font-size: 1.07rem;
+    line-height: 1.45;
+    font-size: 1.05rem;
+  }
+
+  li p {
+    font-size: 1rem;
+  }
+
+  li strong {
+    color: var(--color1);
+  }
+
+  img {
+    display: block;
+    margin: auto;
+    margin-block: 1.5rem;
+  }
+
+  hr {
+    margin-block: 2rem;
+    color: var(--color1);
+    outline: var(--color1);
+    background-color: var(--color1);
+    border-color: var(--color1);
+    opacity: 0.2;
+  }
+
+  blockquote p {
+    padding: 0.5rem;
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(1, 20, 28, 0.1);
+    border-radius: 3px;
+  }
+
+  img {
+    margin: 2rem auto;
+    width: 90%;
+    max-width: 800px;
+    border-radius: 3px;
+    object-fit: cover;
   }
 }

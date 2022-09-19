@@ -2,36 +2,58 @@ import { useRouter } from "next/router";
 import Script from "next/script";
 import { useEffect, useState } from "react";
 import PageLayout from "../../components/layouts/PageLayout";
+import ReactMarkdown from "react-markdown";
 
-export default function Home() {
-  const [markdown, setMarkdown] = useState("");
-  const router = useRouter();
-  const { article } = router.query;
-
-  useEffect(() => {
-    fetch(`/articles/${article}.md`)
-      .then((res) => res.text())
-      .then((text) => {
-        console.log(text);
-        const md = new showdown.Converter().makeHtml(text);
-        setMarkdown(md);
-      });
-  }, [article]);
+export default function Home(props) {
+  const { title, description, markdown } = props.articleData;
 
   return (
     <>
       <PageLayout
-        title="Guía para Aprender Inglés Completa"
+        title={title}
+        description={description}
         header={false}
         nav="school"
       >
-        <div className="section">
-          <article
-            className="article"
-            dangerouslySetInnerHTML={{ __html: markdown }}
-          ></article>
-        </div>
+        <section className="section section--article">
+          <div className="article">
+            <ReactMarkdown>{markdown}</ReactMarkdown>
+          </div>
+        </section>
       </PageLayout>
     </>
   );
+}
+
+export async function getStaticPaths() {
+  return {
+    fallback: false,
+    paths: [
+      { params: { article: "guia-para-aprender-ingles-completa" } },
+      { params: { article: "lista-de-recursos-para-aprender-ingles" } },
+      { params: { article: "aprende-a-usar-anki-como-un-experto" } },
+    ],
+  };
+}
+
+export async function getStaticProps(context) {
+  const article = context.params.article;
+
+  const res = await fetch(
+    `http://localhost:3000/articles/${article}/articleInfo.json`
+  );
+  const json = await res.json();
+
+  const guide = await fetch(json.markdown);
+  const markdown = await guide.text();
+
+  return {
+    props: {
+      articleData: {
+        title: json.title,
+        description: json.description,
+        markdown,
+      },
+    },
+  };
 }

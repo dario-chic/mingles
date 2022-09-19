@@ -16,6 +16,12 @@ const Nav = () => {
       setNavIsActive(false);
       document.body.classList.remove("navIsActive");
     }
+  };
+  const handleBar = () => {
+    if (navIsActive) {
+      setNavIsActive(false);
+      document.body.classList.remove("navIsActive");
+    }
     if (!navIsActive) {
       setNavIsActive(true);
 
@@ -57,7 +63,7 @@ const Nav = () => {
           <img src="/mingles-full-logo.png" alt="aguacandy-logo" />
         </picture>
       </Link>
-      <span className="nav__bar" onClick={handleNav}>
+      <span className="nav__bar" onClick={handleBar}>
         <BurguerBar id="nav__bar" />
       </span>
       <div

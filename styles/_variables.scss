@@ -26,13 +26,13 @@
 @media screen and (min-width: 770px) {
   :root {
     --general-padding: clamp(1.56rem, calc(-0.67rem + 11.16vw), 9.38rem);
-    --content-padding: 25px;
+    --content-padding: 50px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   :root {
-    --content-padding: 50px;
+    --content-padding: 100px;
   }
 }
 
