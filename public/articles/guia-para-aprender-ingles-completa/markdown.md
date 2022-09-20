@@ -6,7 +6,7 @@
 
 ![GUIA PARA APRENDER INGLES](/articles/guia-para-aprender-ingles-completa/ingles.webp)
 
-Hi! Bienvenido a nuestra guía para aprender inglés **facilmente**, **rápidamente** y **eficazmente**, para que lleves tu nivel a donde nunca antes habías imaginado en muy poco tiempo. Aquí aprenderás los secretos y las técnicas reales para adquirir cualquier idioma con el _“mínimo esfuerzo”_, y te adelanto, olvídate de la gramática y de los métodos tradicionales y aburridos. Y si, si puedes aprender sin ellos.
+Hi! Bienvenido a nuestra guía para aprender inglés **facilmente**, **rápidamente** y **eficazmente**, para que lleves tu nivel a donde nunca antes habías imaginado en muy poco tiempo. Aquí aprenderás los secretos y las técnicas reales para adquirir cualquier idioma con el _“mínimo esfuerzo”_, y te adelanto, olvídate de la gramática y de los métodos tradicionales y aburridos. Y si, si puedes hacerlo sin ellos.
 
 Primero que nada, date cuenta que escribí **“adquirir”** y no **“aprender”**, esto porque para volverte realmente fluido en cualquier idioma necesitas adquirirlo en lugar de aprenderlo. Esto puede ser un poco confuso así que déjame aclárarte estos dos conceptos.
 
@@ -38,9 +38,9 @@ Antes de entrar en materia te daré una lista de indicaciones y consejos muy imp
 
 - **Cambia todo tu entorno a Ingles:** Necesitas rodarte del idioma en la mayor medida posible, lo más óptimo sería irse a un país donde hablen el idioma, pero como no todos podemos permitirnos esos lujos, puedes empezar por configurar tu teléfono, computadora y aplicaciones al idioma que quieres adquirir, en este caso inglés.
 
-- **Dedícale al menos 1 hora diaria sin falta:** Para adquirir cualquier habilidad tu cerebro necesita crear conexiones neuronales nuevas, las cuales al inicio son muy débiles y necesitan ser reforzadas mediante la repetición, de otro modo estas se pierden. Por eso es importante dedicarle al menos 1 hora al día (como mínimo, mientras más mejor) para reforzar e ir creando cada vez mejores conexiones.
+- **Dedícale al menos 1 hora diaria sin falta:** Para adquirir cualquier habilidad tu cerebro necesita crear conexiones neuronales nuevas, las cuales al inicio son muy débiles y necesitan ser reforzadas mediante la repetición, de otro modo estas se pierden. Por eso es importante dedicarle al menos 1 hora al día (como mínimo, mientras más mejor) para reforzarlas e ir creando cada vez mejores conexiones.
 
-Sin más preámbulo, empieza la guía para que adquieras el inglés fácil, rápida y eficazmente. Esta esa segmentada en secciones ordenadas, necesitas seguirlas en el orden presentados para obtener mejores resultados.
+Sin más preámbulo, empieza la guía para que adquieras el inglés fácilmente, rápidamente y eficazmente. Esta guía está segmentada en secciones que siguen un orden específico, necesitas seguirlas en el orden presentados para obtener mejores resultados.
 
 ---
 
@@ -52,15 +52,17 @@ Si arrojas a una persona que no sabe nadar al mar posiblemente se ahogue, pero s
 
 Esta guía se basa en **input comprensible,** que en resumen se basa en consumir contenido en el idioma que se quiere _adquirir_ (en este caso ingles), tanto como sea posible. Pero para que pueda funcionar correctamente es necesario tener una pequeña base en el idioma, para que nuestro cerebro tenga un punto de partida para adaptarse e irlo adquiriendo, de otro modo solo vas a frustrarte y terminaras adquiriendo poco o nada de lo que estas consumiendo.
 
-La mayoría de las personas tenemos estas bases, debido a que normalmente en las escuelas enseñan inglés, a un nivel muy bajo, pero suficiente para entender oraciones simples. Si ese es tu caso, puedes tranquilamente saltarte esta sección y pasar a la siguiente, aunque como recomendación es bueno hacer un repaso para reforzar esta base y empezar con el pie derecho.
+La mayoría de las personas tenemos estas bases, debido a que normalmente en las escuelas enseñan inglés, a un nivel muy bajo, pero suficiente para entender y formar oraciones simples. Si ese es tu caso, puedes tranquilamente saltarte esta sección y pasar a la siguiente, aunque como recomendación es bueno hacer un repaso para reforzar esta base y empezar con el pie derecho.
 
-Si es tu primer acercamiento al idioma o quieres repasar lo que sabes, este es el único momento donde es recomendable sentarse a estudiar gramática, aunque ya aclaramos que la gramática no es lo más importante para _adquirir_ un idioma, esta sigue siendo útil y más en una fase inicial para familiarizarse con el idioma y ganar esa base que necesitamos para realizar la total inmersión.
+Si es tu primer acercamiento al idioma o quieres repasar lo que sabes, este es el único momento donde recomiendo sentarse a estudiar gramática, aunque ya aclaramos que la gramática no es lo más importante para _adquirir_ un idioma, esta sigue siendo útil y más en una fase inicial para familiarizarse con el idioma y ganar esa base que necesitamos para realizar la total inmersión.
 
 No es necesario pagar un curso ni nada por el estilo para aprender esto, hoy en día en internet puedes encontrar todo el material necesario para realizar esto y mucho más de forma gratuita. Tan solo en YouTube hay cientos de profesores con excelentes cursos para adquirir estos conceptos. Incluso podrías usar aplicaciones como Duolingo, que aunque realmente no la recomiendo para adquirir el idioma, es muy útil almenos para salir de este nivel 0 y conocer los conceptos básicos.
 
-No necesitas profundizar mucho, solo necesitas aprenderte los puntos básicos. Como los pronombres, un poco del verbo to be, formulación de oraciones simples, quizás auxiliares y lo más importante obtener un vocabulario base, para esto puedes usar Anki, aprende como usarlo en nuestra [guía para usar Anki](https://www.mingles.com/aprende-a-usar-anki-como-un-experto).
+No necesitas profundizar mucho, solo necesitas aprenderte los puntos básicos, siendo más técnicos necesitarias obtener un nivel A2 aproximadamente _(marco común europeo)_.
 
-Terminar este paso demora poco tiempo (de 1 semana a un mes más o menos), el tiempo depende de cuál es tu base actualmente en el idioma y del tiempo y el esfuerzo que le dediques. Estos son conceptos muy simples que no requieren demasiado esfuerzo adquirirlos. Una vez ya te sientas cómodo y sientas más familiarizado al idioma puedes pasar al siguiente paso, que es:
+Aprendete los pronombres, un poco del verbo to be, formulación de oraciones simples, quizás auxiliares y lo más importante obtener un vocabulario base, para esto puedes usar Anki, aprende como usarlo en nuestra [guía para usar Anki](https://www.mingles.com/aprende-a-usar-anki-como-un-experto).
+
+Terminar este paso demora poco tiempo (de un par de semanas a un mes, puede ser más o menos), el tiempo depende de cuál es tu base actualmente en el idioma y del tiempo y el esfuerzo que le dediques. Estos son conceptos muy simples que no requieren demasiado esfuerzo adquirirlos. Una vez ya te sientas cómodo y sientas un poco más familiarizado al idioma puedes pasar al siguiente paso, que es:
 
 ---
 
@@ -76,12 +78,12 @@ Algo importante es que **tienes que estar consciente de tu nivel** y del nivel d
 
 La forma más eficiente y las que más se adapta al método del input comprensible consiste en, si, escoger el contenido que más nos guste, pero ser conscientes de nuestro nivel y escoger algo que se adapte a nosotros y nuestro progreso, contenido que sea solo ligeramente superior a nuestro nivel actual. Lo ideal sería entender un 50% - 60% de todo lo que estamos viendo.
 
-Para que te hagas una idea yo empecé viendo “Avatar: la leyenda de Ang”, la cual es una serie de mi infancia que se adaptaba a mi nivel, solo ligeramente superior. Es una serie animada “infantil”, pero con una historia que me gusta y que disfruté bastante, al principio fue un poco difícil ya que tenía que investigar vocabulario frecuentemente, pero a medida que iba adquiriendo esto pasaba cada vez menos y ya entre la 2da y 3ra temporada estaba entendiendo almenos un 80% - 90% de todo lo que estaba viendo.
+Para que te hagas una idea yo empecé viendo “Avatar: la leyenda de Ang”, la cual es una serie de mi infancia que se adaptaba a mi nivel, solo ligeramente superior. Es una serie animada “infantil”, pero con una historia que me gusta y que disfruto bastante, al principio fue un poco difícil ya que tenía que investigar vocabulario frecuentemente y guardarlo en Anki, pero a medida que iba adquiriendo esto pasaba cada vez menos y ya entre la 2da y 3ra temporada estaba entendiendo almenos un 80% - 90% de todo lo que estaba viendo.
 
 Si no sabes que recursos elegir puedes ver nuestra [lista de recursos para aprender inglés](http://localhost:3000/school/lista-de-recursos-para-aprender-ingles) desde
 principiante a intermedio, allí colocamos variedad de recursos (series, libros, películas, podcast, etc...) échale un ojo y quizás consigas algo que te guste.
 
-Una vez ya tengas los recursos adaptados a tu nivel, comienza la inmersión total, durante mínimo 1h al día vas a consumir todo este contenido en inglés, **TOTALMENTE EN INGLES**, series en inglés, libros totalmente en inglés, podcast totalmente en inglés, tu cerebro solo debe consumir inglés (muy importante este punto). Una vez que los recursos que elegiste no presenten un “desafío” para ti y puedas entender un 85% - 100% sin ningún problema, es hora de avanzar y buscar material más desafiante que te mantenga en ese limbo de entender, pero a la vez no tanto y seguir adquiriendo nuevas cosas.
+Una vez ya tengas los recursos adaptados a tu nivel, comienza la inmersión total, durante mínimo 1h al día **(mientras más mejor)** vas a consumir todo este contenido en inglés, **TOTALMENTE EN INGLES**, series en inglés, libros totalmente en inglés, podcasts totalmente en inglés, tu cerebro solo debe consumir inglés (muy importante este punto). Una vez que los recursos que elegiste no presenten un “desafío” para ti y puedas entender un 85% - 100% sin ningún problema, es hora de avanzar y buscar material más desafiante que te mantenga en ese limbo de entender, pero a la vez no tanto y seguir adquiriendo nuevas cosas.
 
 Tal cual como cuando éramos niños nuestro cerebro irá adquiriendo el idioma a través del input y entender los contextos. Y, aunque ya con hacer esto sería “suficiente”, al igual que de niños nos tomaría años poder adquirir el idioma al punto de entender perfectamente las cosas que escuchamos, incluso quizás más que cuando niños ya que en este caso probablemente no estaríamos 24/7 recibiendo estos estímulos.
 
@@ -99,11 +101,11 @@ Anki es una aplicación muy útil para obtener vocabulario y muy sencilla de usa
 
 La traducción puede ayudar mucho cuando se trata de entender inglés, especialmente al principio. Pero no cuentes con ella para siempre. En mayor medida evita traducir todo y mucho menos literalmente para que no termines con frases sin sentido.
 
-Solo al inicio es entendible y aceptable traducir la mayoría de las cosas para poder entender mejor y obtener algo de vocabulario simple, pero tan pronto como se pueda hay que dejar de hacer esto. Lo que queremos es adquirir el idioma para entender y hablar naturalmente, no convertirnos en una maquina traductora portátil.
+Solo muy al inicio es entendible y aceptable traducir la mayoría de las cosas para poder entender mejor y obtener algo de vocabulario simple, pero tan pronto como se pueda hay que dejar de hacer esto. Lo que queremos es adquirir el idioma para entender y hablar naturalmente, no convertirnos en una maquina traductora portátil.
 
-Las palabras y expresiones están asociadas a ideas, y cada sociedad o cultura tiene diferentes ideas asociadas a las palabras, es por eso que incluso en nuestra misma lengua hay diferencias, por ejemplo, la palabra “coger”, en España significaría agarrar algo, mientras que en algunos sitios de Latinoamérica significa tener sexo.
+Las palabras y expresiones están asociadas a ideas, y cada sociedad o cultura tiene diferentes ideas asociadas a las palabras y expresiones, es por eso que incluso en nuestra misma lengua hay diferencias, por ejemplo, la palabra “coger”, en España significaría agarrar algo, mientras que en algunos sitios de Latinoamérica significa tener sexo.
 
-Lo que hay que hacer es asociar las palabras y expresiones a las ideas que ellos le dan, y no a lo que ya conoces en tu lengua madre, de esta forma podrás entender mejor lo que escuchas o lees y no caerás en mal entendidos al buscarle sentido en el español, que es lo que sucede con la mayoría de las personas cuando traducen.
+Lo que hay que hacer es asociar las palabras y expresiones a las ideas que ellos le dan, y no a lo que ya conoces en tu lengua materna, de esta forma podrás entender mejor lo que escuchas o lees y no caerás en mal entendidos al buscarle sentido en el español, que es lo que sucede con la mayoría de las personas cuando traducen.
 
 Un ejemplo claro de esto es la palabra “Discussion” si lo traducimos literalmente nos dará como resultado “Discusión”, pero en inglés no tiene el mismo peso que en español. Mientras que en español una discusión se entiende mayormente como una “pelea” por diferencias de opiniones, en inglés “discussion” se refiere a una charla normal donde dos personas que intercambian ideas sin ningún tipo de conflicto. La palabra que si expresa la misma idea que discusión en español es “argument”.
 
@@ -115,7 +117,7 @@ Si a pesar de todo esto, sigues sin entender, como último recurso es valido tra
 
 Ya sabes que todo el contenido que tienes que consumir es en inglés, esto también aplica a los subtítulos en las películas y series. Un error muy común que cometen las personas es poner el contenido en inglés y subtítulos en su idioma, pero esto es totalmente inútil ya que así no adquiriremos nada, estaremos tan concentrados leyendo las traducciones que no prestaremos atención a lo demás.
 
-Sin quieres potenciar tu aprendizaje lo mejor es ver series y películas sin subtítulos, pero esto es para niveles mucho más avanzados, si eres principiante/intermedio los subtítulos van a ser tus mejores amigos. El listening es algo que lleva bastante practica mejorar, por lo que los subtítulos te ayudaran a no estar tan perdido sobre lo que está sucediendo en el contenido que estas consumiendo. Estas son algunas ventajas que nos dan:
+Sin quieres potenciar tu aprendizaje lo mejor es ver series y películas sin subtítulos, pero esto es para niveles mucho más avanzados, si eres principiante/intermedio los subtítulos van a ser tus mejores amigos. El listening es algo que lleva bastante tiempo práctica mejorar, por lo que los subtítulos te ayudaran a no estar tan perdido sobre lo que está sucediendo en el contenido que estas consumiendo. Estas son algunas ventajas que nos dan:
 
 - **Te ayuda a mejorar el listening:** Si no hemos entendido alguna palabra, nos podemos apoyar en leerla en los subtítulos y así asociar el sonido a ella, la próxima vez que la oigas seguro si la identificaras.
 
@@ -133,7 +135,7 @@ No te asustes, no es lo que piensas.
 
 ![Persona estudiando](/articles/guia-para-aprender-ingles-completa/estudiar.webp)
 
-Una vez te sientas familiarizado con el idioma, te sientas más cómodo y tengas un buen entendimiento del mismo, es hora de pasar al estudio… Pero no al estudio que estamos acostumbrados. Como dije anteriormente la gramática no es lo más importante al momento de aprender un idioma, sin embargo, esta resulta extremadamente útil para mejorar nuestra habilidad lingüística mucho más rápido.
+Una vez te sientas bastante familiarizado con el idioma, te sientas más cómodo y tengas un mayor entendimiento del mismo, es hora de pasar al estudio… Pero no al estudio que estamos acostumbrados. Como dije anteriormente la gramática no es lo más importante al momento de aprender un idioma, sin embargo, esta resulta extremadamente útil para mejorar nuestra habilidad lingüística mucho más rápido.
 
 > “La habilidad lingüística es la habilidad para crear oraciones lógicas
 > y correctas y de una habilidad activa que requiere de la articulación
@@ -141,11 +143,11 @@ Una vez te sientas familiarizado con el idioma, te sientas más cómodo y tengas
 > lingüística que nos permite comunicar ideas y sentimientos, y
 > relacionarnos de manera directa con otras personas.”
 
-Ahora, la habilidad lingüística puede ser desarrollada naturalmente con el puro input comprensible, tal cual como cuando éramos niños, pero esto nos llevaría muchísimo más tiempo de dominar, tiempo que podemos adelantar estudiando y así volvernos fluidos más rápido. Cuando digo de estudiar gramática no hablo de pagar por inscribirte en algún curso o instituto, y soportar todas esas clases aburridas. Si no a estudiar o mejor dicho investigar a medida que te van surgiendo dudas, o cada vez que no entiendas el porqué de algo.
+Por supuesto que, la habilidad lingüística puede ser desarrollada naturalmente con puro input comprensible, tal cual como cuando éramos niños, pero esto nos llevaría muchísimo más tiempo de dominar, tiempo que podemos adelantar estudiando y así volvernos fluidos más rápido. Cuando digo de estudiar gramática no hablo de pagar por inscribirte en algún curso o instituto, y soportar todas esas clases aburridas. Si no a estudiar o mejor dicho investigar a medida que te van surgiendo dudas, o cada vez que no entiendas el porqué de algo.
 
 Un ejemplo para que entiendas como hacer esto: durante mi inmersión veía muchos usos de las palabras en gerundio (que terminan en ING, como “Drawing”), según lo que yo había aprendido en la secundaria, esto significaba en una traducción LITERAL (mal hecho), algo como “ando” o “endo”, en este caso “drawing” según yo sería “dibujando”.
 
-Hasta aquí todo bien, el problema vino cuando empecé a ver que lo usaban en oraciones como “Drawing is cool” que si lo traduzco literal a lo que yo pensaba seria “Dibujando es genial”, lo cual no tiene ningún sentido. Entonces, ¿Qué hice? Busqué en internet y exactamente luego de una explicación de 15 minutos en YouTube, no solo me había quedado claro porque sucedía si no que había aprendido a usarlo correctamente. _(Esta explicación también la vi de un profesor en inglés)_
+Hasta aquí todo bien, el problema vino cuando empecé a ver que lo usaban en oraciones como “Drawing is cool” que si lo traduzco literal a lo que yo pensaba seria “Dibujando es genial”, lo cual no tiene ningún sentido. Entonces, ¿Qué hice? Busqué en internet y exactamente luego de una explicación de 15 minutos en YouTube, no solo me había quedado claro porque sucedía (porque actua como pronombre) si no que también aprendí a usarlo correctamente. _(Esta explicación también la vi de un profesor en inglés, se entiende mejor)_
 
 Eso es exactamente lo que hago siempre que no comprendo algo y es lo que te animo a hacer cuando te digo que estudies gramática, investigar y estudiar esas cosas puntuales que no terminas de entender o te gustaría entender mejor, y avanzar más rápido en tu desarrollo. Al estudiar cosas puntuales, deja de ser un proceso tedioso e incluso es disfrutable ya que es algo importante para ti y que realmente necesitas, por lo tanto, también es más propenso a quedar en tu mente.
 
@@ -159,7 +161,7 @@ Tan solo piensa esto, cuando te comunicas en español, ¿acaso estas creando ora
 
 ## Empieza el output
 
-Por supuesto, además de poder entender el idioma, queremos poder comunicarnos en él y ser capaz de llevar conversaciones fluidas de forma bilateral. Como último paso te enseñaremos como mejorar la habilidad del **output**, es decir, de producir el idioma.
+Por supuesto, además de poder entender el idioma, queremos poder comunicarnos en él y ser capaz de llevar conversaciones fluidas de forma bilateral. Como último paso te enseñaré como mejorar tú **output**, es decir, tu habilidad de producir el idioma.
 
 Primero que nada, es importante comprender que la producción de un idioma es realmente una
 **consecuencia** y no causa de nuestro desarrollo de las habilidades lingüísticas. Por esa razón tenemos que centrarnos mayoritariamente en el “**input**”, en proporcionar información comprensible a nuestro cerebro, para que así este se encargue de encontrar las estructuras y patrones para posteriormente desarrollar la producción, exactamente como cuando adquirimos nuestra lengua materna.
@@ -170,20 +172,20 @@ Hay que aclarar que evidentemente sí nos va a ayudar a mejorar ciertas habilida
 
 Por otro lado existe una forma de hacer output que si nos ayudará a mejorar gramaticalmente, lingüísticamente y a mejorar la fluidez y esto es comunicándonos con alguien más. Comunicarnos con alguien más lleva implícito el hecho de que se va a producir una comunicación recíproca, por lo que vamos a ser capaces de realizar gran cantidades de output y recibir grandes cantidades de “input” o información que nos ayude a seguir progresando. Y si a esto le sumamos el hecho de recibir **feedback** o correcciones al momento de la comunicación, esto sin duda nos ayudará a poder ser conscientes de nuestros errores y arreglarlos para **mejorar exponencialmente** nuestras habilidades lingüísticas.
 
-Esta es la razón por la cual las personas que se van a vivir a un país con una lengua diferente a la materna consiguen _adquirir_ el idioma y mejorar sus habilidades lingüísticas de una forma muy rápida. La gente creería que la práctica es el motivo de esto, pero en realidad lo es el hecho de estar rodeado del idioma recibiendo grandes cantidades de input en todo momento.
+Esta es la razón por la cual las personas que se van a vivir a un país con una lengua diferente a la materna consiguen _adquirir_ el idioma y mejorar sus habilidades lingüísticas de una forma muy rápida. La gente creería que la práctica o el constante output es el motivo de esto, pero en realidad lo es el hecho de estar rodeado del idioma recibiendo grandes cantidades de input en todo momento.
 
 ![Personas hablando](/articles/guia-para-aprender-ingles-completa/context.webp)
 
 Por supuesto no todos podemos darnos el lujo de irnos a vivir a otro país, pero podemos intentar **imitarlo**, exactamente realizando el input comprensible (consumiendo contenido completamente en inglés), consiguiendo amigos interesados en hablar el mismo idioma para comunicarse en el y corrigirse los errores mutuamente, avanzando juntos. También puedes encontrar personas más avanzadas o nativas con las cuales poder conversar y recibir toda su experiencia.
 
-Exactamente esto es lo que hacemos en **Mingles**, en nuestra comunidad podrás comunicarte con otras personas como tú, que interesadas en mejorar su inglés, con las que podrás hablar y darse ayuda mutua para mejorar sus habilidades en el inglés, divirtiéndote y haciendo amigos en el camino. También podrás hablar con nativos y profesores que te ayudaran a mejorar muchísimo a mejorar tus habilidades en el idioma, también compartimos buen contenido entre los miembros todo el tiempo para que nunca te aburras y siempre estes realizando input con variedad de material. En nuestra comunidad obtendrás todas las herramientas necesarias para obtener esa fluidez que tanto deseas, no pierdas el tiempo y se parte de nosotros!
+Exactamente esto es lo que hacemos en **Mingles**, en nuestra comunidad podrás comunicarte con otras personas como tú, interesadas en mejorar su inglés, con las que podrás conversar mientras se ayudan mutuamente a mejorar sus habilidades en el idioma, mientras te diviertes y haces amigos en el camino. En **Mingles** podrás hablar con nativos y profesores que te ayudaran a mejorar muchísimo a mejorar tus habilidades en el idioma, también compartimos buen contenido entre los miembros para que nunca te aburras y siempre estes realizando input con material interesante y variado. En nuestra comunidad obtendrás todas las herramientas necesarias para obtener esa fluidez que tanto deseas, no pierdas el tiempo y se parte de nosotros!
 
-Y así damos por concluida nuestra guía para aprender inglés, me alegra que hayas llegado hasta aquí, eso demuestras tus grandes ganas de adquirir el idioma. Sabemos que posiblemente todo esto es nuevo para ti y puede sonar raro o ilógico ya que se sale de todo lo que nos han enseñado, al menos fue el sentimiento que yo tuve cuando descubrí todo esto, estaba supe reacio a creer que se pudiera aprender así, a pesar de eso realmente quería saber inglés y como al final no perdia nada decidí darle una oportunidad, y tan solo 2 meses después pude alcanzar un nivel que jamás creí que podría tener, pasando de un nivel principiante donde no entendía casi ni una sola palabra, al punto donde empezaba a leer textos y entender lo que decía, podía ver memes en inglés y empezaba a ver series y películas con muchísima menos dificultad.
+Y así damos por concluida nuestra guía para aprender inglés, me alegra que hayas llegado hasta aquí, eso demuestras tus grandes ganas de adquirir el idioma. Sabemos que posiblemente todo esto es nuevo para ti y puede sonar raro o ilógico ya que se sale de todo lo que nos han enseñado, al menos fue el sentimiento que yo tuve cuando descubrí todo esto, estaba supe reacio a creer que se pudiera aprender así, a pesar de eso realmente quería saber inglés y como al final no perdia nada decidí darle una oportunidad. Tan solo 2 meses después pude alcanzar un nivel que jamás creí que podría tener, pasando de un nivel principiante donde no entendía casi ni una sola palabra, al punto donde empezaba a leer textos y entender lo que decía, podía ver memes en inglés y empezaba a ver series y películas con muchísima menos dificultad.
 
-Por eso decidí fundar **Mingles**, siempre veo personas con muchas ganas de aprender inglés, pero luchando porque nunca logran buenos resultados. Decidí que podría ayudar compartiendo todo esto que he aprendido, y así ayudar a acortar el camino de las personas que están en la misma posición que yo al empezar, con ganas de adquirir el inglés, pero cansado de no avanzar en el método tradicional y no saber qué hacer. Así que te invito a darle un intento, intenta hacerlo de forma constante durante un par de meses y te asombraras con todo el progreso que obtendrás, es una sensación increíble ver como pasas de no entender nada, a poder defenderte en el idioma, a través de un método divertido y de “**poco esfuerzo**”.
+Por eso decidí fundar **Mingles**, siempre veo personas con muchas ganas de aprender inglés, pero luchando porque nunca logran buenos resultados. Decidí que podría ayudar compartiendo todo esto que he aprendido y creando el espacio que siempre me hubiese gustado tener para practicar. Y así ayudar a acortar el camino de las personas que están en la misma posición que yo al empezar, con ganas de adquirir el inglés, pero cansado de no avanzar en el método tradicional y no saber qué hacer. Así que te invito a darle un intento, intenta hacerlo de forma constante durante un par de meses y te asombraras con todo el progreso que obtendrás, es una sensación increíble ver como pasas de no entender nada, a poder defenderte en el idioma, a través de un método divertido y de “**poco esfuerzo**”.
 
 ![Banner de mingles](/articles/guia-para-aprender-ingles-completa/banner.webp)
 
-A partir de ahora queda todo en tus manos, recuerda que las habilidades no se adquieren leyendo, se adquieren hiciendo llevandolas a la práctica, así que sigue todos estos consejos que te hemos dados en esta guía y cumple esa meta que tanto anhelas de ser totalmente fluido en el inglés.
+A partir de ahora queda todo en tus manos, recuerda que las habilidades no se adquieren leyendo, se adquieren haciendo llevandolas a la práctica, sigue esta guía y todos los consejos plasmados y te prometo lograras esa meta que tanto anhelas de ser totalmente fluido en el inglés.
 
 **Without further ado, good luck!**
