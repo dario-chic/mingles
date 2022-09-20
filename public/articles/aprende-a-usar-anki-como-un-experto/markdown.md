@@ -22,11 +22,11 @@ Y lo mejor es que una vez aprendas a usar Anki, este te va a servir para cualqui
 
 > Dato curioso ("**Anki**" es la palabra Japonesa para "memorización")
 
-### ¿Repetición Espaceada? ¿Porqué estan eficaz?
+### ¿Repetición Espaceada? ¿Por qué estan eficaz?
 
 Estudios científicos han demostrado que cuando distribuimos o espaciamos el aprendizaje a lo largo del tiempo, la retención de información es mucho más alta. Este espaciamiento genera un mayor mantenimiento y solidificación de los recuerdos en la memoria.
 
-A partir de aquí surge la técnica de la **repetición espaciada**, que se basa en aprender un material, a lo largo del tiempo e incrementando los espacios de tiempo progresivamente a medida que el aprendizaje se solidifica entre sesiones de aprendizaje.
+A partir de aquí surge la técnica de la **repetición espaciada**, que se basa en aprender un material, a lo largo del tiempo e incrementando los espacios de tiempo progresivamente entre sesiones de aprendizaje a medida que el aprendizaje se solidifica .
 
 Para adquirir cualquier habilidad o aprender cualquier cosa el cerebro necesita crear conexiones neuronales nuevas, las cuales al inicio son muy débiles y necesitan ser reforzadas, de otra forma estas se pierden. Este refuerzo se realiza a través de la repetición prolongada, esta repetición hace que "la curva del olvido" sea cada vez más grande, al punto donde podrían pasar años y seguiríamos recordando eso que aprendimos.
 
@@ -36,7 +36,7 @@ La repetición espaciada es especialmente eficaz y útil cuando se quiere aprend
 
 Realizar esta técnica manualmente es un poco tedioso, pero con el avance de la tecnología ya no tenemos que preocuparnos por eso, ya que tenemos distintos programas y aplicaciones que nos ayudan con esto, y claramente entre ellas esta Anki, la que personalmente y globalmente es considerada la mejor y la más eficaz.
 
-Ya sabes que es bien que es Anki y porque es tan poderoso, te enseñaré como usarlo, a continuación te explicaré paso por paso como usar Anki y sacarle el mayor provecho posible, esta guía está organizada, así que asegúrate de seguirla en orden para obtener buenos resultados:
+Ya sabes que es bien que es Anki y porque es tan poderoso, te enseñaré como usarlo, a continuación te explicaré paso por paso como usar Anki y sacarle el mayor provecho posible, esta guía está en un orden específico, así que asegúrate de seguir el orden para obtener buenos resultados:
 
 ---
 
@@ -44,11 +44,11 @@ Ya sabes que es bien que es Anki y porque es tan poderoso, te enseñaré como us
 
 Descargar Anki es muy fácil, tan solo ve a su [web oficial](https://apps.ankiweb.net/) y descarga la opción de tu sistema operativo, o si estás en un dispositivo móvil, dirígete a la tienda de aplicaciones de tu dispositivo y escribe "Anki" en el buscador.
 
-Es importante que una vez descargado, registres una cuenta en [https://ankiweb.net/account/register](https://ankiweb.net/account/register), esta cuenta te ayudara a guardar todos los mazos, las cards y el progreso que tengas, por si en algún momento pierdes la app, puedas descargarla de nuevo y usarla como si nada hubiera pasado. Además, podrás iniciar sesión en diferentes dispositivos y tener la misma información y progreso en cada uno de ellos.
+Es importante que una vez descargado, registres una cuenta en [https://ankiweb.net/account/register](https://ankiweb.net/account/register), esta cuenta te ayudara a guardar todos los mazos, las cards y el progreso que tengas, por si en algún momento pierdes la app, puedas descargarla de nuevo, loguearte y usarla como si nada hubiera pasado. Además, podrás iniciar sesión en diferentes dispositivos y tener la misma información y progreso en cada uno de ellos.
 
-Ahora, tienes que saber que por default Anki no tiene la configuración más óptima para el aprendizaje de idiomas, tristemente esto yo lo descubrí meses después de empezar a usarlo, y cuando lo hice y lo configure bien, mi progreso con Anki aumento increíblemente, por suerte tú no vas a tener que pasar por eso y empezaras correctamente desde el día uno.
+Ahora, tienes que saber que por default Anki no tiene la configuración más óptima para el aprendizaje de idiomas, tristemente esto yo lo descubrí meses después de empezar a usarlo, y cuando lo hice y lo configure bien, mi progreso con Anki aumento increíblemente. Por suerte tú no vas a tener que pasar por eso y empezaras correctamente desde el día uno.
 
-No es mi intención reiventar la rueda y explicarte paso por paso cada configuración, inicialmente porque alargaría mucho la guía. La persona de la que aprendí esto y me ayuda a configurar mi Anki correctamente fue el youtuber **"[Tomas Dameson](https://www.youtube.com/c/TomasDameson)"** en su video **"APRENDÉS IDIOMAS con ANKI? Tenés que Saber Esto."** Para ver el video da [click aquí](https://www.youtube.com/watch?v=Hz4vNzK_iic&t=187s).
+No es mi intención reiventar la rueda y explicarte paso por paso cada configuración, inicialmente porque alargaría mucho la guía. La persona de la que aprendí esto y me ayudó a configurar mi Anki correctamente fue el youtuber **"[Tomas Dameson](https://www.youtube.com/c/TomasDameson)"** en su video **"APRENDÉS IDIOMAS con ANKI? Tenés que Saber Esto."** Para ver el video da [click aquí](https://www.youtube.com/watch?v=Hz4vNzK_iic&t=187s).
 
 Una vez configures tu Anki correctamente con el tutorial continúa con la guía.
 
@@ -56,34 +56,36 @@ Una vez configures tu Anki correctamente con el tutorial continúa con la guía.
 
 ## Primeros pasos con Anki
 
-Antes de entrar en profundidad en como usar Anki para adquirir idiomas más rápido, es necesario que sepas como usarlo, como crear los mazos y las flashcards para estudiar, así que empecemos con ello paso por paso.
+Antes de entrar en profundidad en como usar Anki para adquirir idiomas, es necesario que sepas como usarlo en general, como crear los mazos y las flashcards para estudiar, así que empecemos con ello paso por paso.
 
 Las siguientes imágenes de referencia son de Anki en escritorio, ya que es donde suelo usarlo y donde creo mis cartas y mazos. Así que si usas Anki en móvil, tan solo busca estas mismas opciones que explico en tu interfaz. Anki es muy fácil e intuitivo de usar, así que no será algo difícil de hacer.
 
-1. **A prende a crear un Mazo:** Lo primero que necesitamos es crear un Deck o Mazo, estos son contenedores donde podrás guardar las flashcards correspondientes, para crearlo tan solo busca la opción que dice "Crear Mazo" o si está en inglés "Create Deck", colócale un nombre y listo, ya tenemos nuestro mazo para empezar a agregar cards.
+1. **Aprende a crear un Mazo:** Lo primero que necesitamos es crear un Deck o Mazo, estos son contenedores donde podrás guardar las flashcards correspondientes, para crearlo tan solo busca la opción que dice "Crear Mazo" o si está en inglés "Create Deck", colócale un nombre y listo, ya tenemos nuestro mazo para empezar a agregar cards.
    ![Crear mazo en anki](/articles/aprende-a-usar-anki-como-un-experto/anki1.webp)
 
-2. **Añade cards a tu mazo**: Ya con el mazo creado tenemos que añadirles cartas para estudiar, esto es muy simple, tan solo vamos a la opción de Add o Añadir Nota (como te aparezca) y esto nos llevara a la ventana para añadir cartas.
+2. **Añade cards a tu mazo**: Ya con el mazo creado tenemos que añadirles cartas para estudiar, esto es muy simple, tan solo vamos a la opción de Add o Añadir Nota (como te aparezca) y esto nos llevara a la sección para añadir cards.
    ![Añadir cartas en anki](/articles/aprende-a-usar-anki-como-un-experto/anki2.webp)
 
 3. **Configura la card:** Una vez en la sección para añadir cartas, tenemos que configurarla, para ellos solo daremos clic en la opción tipo y nos aseguraremos que está en "basic" o "básico" y que el mazo seleccionado es el indicado para esa carta, en este caso el mazo que creamos se llama "inglés".
    ![Configurar cartas en anki](/articles/aprende-a-usar-anki-como-un-experto/anki3.webp)
 
-4. **Agrega información a la card:** Ahora queda lo más fácil que es añadir información para estudiar. Si lo tienes configurado en español quizás diga otras cosas, pero lo que tienes que saber es que la primera opción es el lado "frontal" de la card y el segundo es el lado "trasero" o back de la card, así que en el primero colocaremos la información/pregunta/etc… Supongamos que quiero aprender que significa "Hello", entonces lo coloco en el frente, y en el back coloco el significado, el cual es "Hola", le doy en Add y listo, así de fácil es usar Anki.
-   ![Añadir cartas en anki](/articles/aprende-a-usar-anki-como-un-experto/anki4.webp)
+4. **Agrega información a la card:** Ahora queda lo más fácil que es añadir información para estudiar. Si lo tienes configurado en español quizás diga otras cosas, pero lo que tienes que saber es que la primera opción es el lado "frontal" de la card y la segunda es el lado "trasero" o back de la card, así que en el primero colocaremos la información/pregunta/etc…
 
-Ahora estudiar las cards es muy sencillo también, tan solo regresamos a la pantalla principal y allí nos aparecerá el mazo junto con el resto de mazos que podríamos tener. Como verás en la captura, en mi caso tengo varios mazos para diferentes cosas, y entre ellos está el que recién cree para el tutorial, así que le daré click y empieza el estudio.
+Supongamos que quiero aprender que significa "Hello", entonces lo coloco en el frente, y en el back coloco el significado, el cual es "Hola", le doy en Add y listo, así de fácil es usar Anki.
+![Añadir cartas en anki](/articles/aprende-a-usar-anki-como-un-experto/anki4.webp)
+
+Ahora estudiar las cards también es muy sencillo, tan solo regresamos a la pantalla principal y allí nos aparecerá el mazo junto con el resto de mazos que tengamos. Como verás en la captura, en mi caso tengo varios mazos para diferentes cosas, y entre ellos está el que recién cree para el tutorial, así que le daré click para empieza el estudio.
 ![Seleccionar mazo en anki](/articles/aprende-a-usar-anki-como-un-experto/anki5.webp)
 
-Como verás, lo primero que nos sale es el front de la carta, en este caso "Hello", aquí es donde empieza todo, básicamente veremos la información del front y tenemos que responder o recordar que es lo que significa, luego click en "show answer" o "mostrar respuesta", esto enseñara el back de la carta el cual tiene verdadero significado de la respuesta del front.
+Como verás, lo primero que nos sale es el front de la carta, en este caso "Hello", aquí es donde empieza todo, básicamente veremos la información del front y tenemos que responder o recordar que es lo que significa, luego clickeamos en "show answer" o "mostrar respuesta", esto enseñara el back de la carta el cual tiene verdadero significado de la respuesta del front.
 
 ![Carta de anki](/articles/aprende-a-usar-anki-como-un-experto/anki6.webp)
 
-Dependiendo de la dificultad que represento recordarlo para ti, hay 4 opciones a elegir **Again/De nuevo**, **Hard/Difícil**, **Good/Bien**, e **Easy/Fácil**. Cada una de estas opciones determinará en cuanto tiempo te aparecerá la carta de nuevo para estudiar, mientras peor te fue, más pronto aparecera.
+Dependiendo de la dificultad que represento recordarlo para ti, hay 4 opciones a elegir **Again/De nuevo**, **Hard/Difícil**, **Good/Bien**, e **Easy/Fácil**. Cada una de estas opciones determinará en cuanto tiempo te aparecerá la carta de nuevo para estudiar, mientras peor te fue recordandolo, más pronto aparecera.
 
 ![Respuesta de anki](/articles/aprende-a-usar-anki-como-un-experto/anki7.webp)
 
-Como consejo, nunca uses fácil o difícil, solo usa la opción de "de nuevo/again" aun cuando la respondas, pero a duras penas (tuviste que darle muchas vueltas) y la de "bien/good" aunque haya sido muy fácil de responder. Esto hace que el algoritmo funcione mejor y tengas mejores resultados.
+Como consejo, nunca uses fácil o difícil, solo usa la opción de "de nuevo/again" aun cuando la respondas, pero a duras penas (tuviste que darle muchas vueltas) y la de "bien/good" aunque haya sido muy fácil de responder. Esto hace que el algoritmo funcione mejor y tengas mejores resultados. Una vez elijas la dificultad, pasara a la siguiente card del mazo, en este caso solo hay una y nos dice que volvamos luego.
 
 ---
 
