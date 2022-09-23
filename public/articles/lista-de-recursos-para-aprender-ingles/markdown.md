@@ -108,6 +108,6 @@ La App se llama **Readable** y puedes conseguirla en [readable.app](https://read
 
 ![Readable logo](/articles/lista-de-recursos-para-aprender-ingles/readable.webp)
 
-Hasta aquí llega la lista para que puedas elegir y empezar tu input cuanto antes, allí afuera hay mucho mas contenido que amedida que vayas consumiendo media irás encontrando, por ahora usa estos como pie de arranque y no pierdas mas el tiempo.
+Hasta aquí llega nuestra lista para que puedas elegir y empezar tu input cuanto antes, allí afuera hay mucho mas contenido que amedida que vayas consumiendo media irás encontrando, por ahora usa estos como pie de arranque y no pierdas mas el tiempo.
 
 Esperamos que los disfrutes y suerte en tu aprendizaje. **See you soon!**
