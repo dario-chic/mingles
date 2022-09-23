@@ -12,7 +12,6 @@ export default function Document() {
           rel="stylesheet"
         />
       </Head>
-      <Script src="/showdown.min.js" strategy="beforeInteractive" />
       <body>
         <Main />
         <NextScript />
