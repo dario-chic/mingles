@@ -4,54 +4,73 @@ import { useEffect, useState } from "react";
 import PageLayout from "../../components/layouts/PageLayout";
 import ReactMarkdown from "react-markdown";
 import Error404 from "../../components/Error404";
+import Loader from "../../components/Loader";
 
 export default function Home(props) {
-  const [dataArticle, setDataArticle] = useState("loading");
-  const [loading, setLoading] = useState(false);
+  const [dataArticle, setDataArticle] = useState(null);
+  const [error, setError] = useState(false);
+  const [loading, setLoading] = useState(true);
 
   // const { title, description, markdown } = props.articleData;
   const router = useRouter();
   const { article } = router.query;
-  console.log(router);
 
   useEffect(() => {
-    const getArticle = async (url) => {
-      const res = await fetch(url);
-      console.log(res);
-      const json = await res.json();
+    setLoading(true);
+    setError(false);
+    setDataArticle(null);
 
-      const guide = await fetch(json.markdown);
-      const markdown = await guide.text();
+    if (article) {
+      const getArticle = async (url) => {
+        try {
+          const res = await fetch(url);
+          console.log(res);
 
-      setDataArticle({
-        title: json.title,
-        description: json.description,
-        markdown,
-      });
-    };
+          if (!res.ok) throw { err: false };
 
-    getArticle(`/articles/${article}/articleInfo.json`);
+          const json = await res.json();
+          console.log(json);
+
+          const guide = await fetch(json.markdown);
+          const markdown = await guide.text();
+
+          setDataArticle({
+            title: json.title,
+            description: json.description,
+            markdown,
+          });
+        } catch (err) {
+          setError(true);
+        }
+        setLoading(false);
+      };
+
+      getArticle(`/articles/${article}/articleInfo.json`);
+    }
   }, [article]);
 
   return (
     <>
-      <PageLayout
-        title={dataArticle.title}
-        description={dataArticle.description}
-        header={false}
-        nav="school"
-      >
-        <section className="section section--article">
-          <div className="article">
-            {dataArticle.markdown === null ? (
+      {loading ? (
+        <Loader />
+      ) : !error ? (
+        <PageLayout
+          title={dataArticle.title}
+          description={dataArticle.description}
+          header={false}
+          nav="school"
+        >
+          <section className="section section--article">
+            <div className="article">
               <ReactMarkdown>{dataArticle.markdown}</ReactMarkdown>
-            ) : (
-              <Error404 />
-            )}
-          </div>
-        </section>
-      </PageLayout>
-      {}
+            </div>
+          </section>
+        </PageLayout>
+      ) : (
+        <PageLayout title="Not Found">
+          <Error404 />
+        </PageLayout>
+      )}
     </>
   );
 }

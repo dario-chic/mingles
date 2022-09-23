@@ -32,7 +32,7 @@ const School = () => {
         ))}
       </div>
       <Link href="/school">
-        <Button className="btn btn__school">Ver más</Button>
+        <a className="btn btn__school">Ver más</a>
       </Link>
     </Section>
   );

@@ -64,7 +64,6 @@ const PageLayout = ({ children, title, description, header, nav = "" }) => {
         />
         <meta name="twitter:image" content="portada.webp" />
       </Head>
-      <Script src="/showdown.min.js" />
       {nav === "" && <Nav />}
       {nav === "home" && <NavHome />}
       {nav === "school" && <NavSchool />}
