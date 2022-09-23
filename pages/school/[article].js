@@ -3,7 +3,6 @@ import Script from "next/script";
 import { useEffect, useState } from "react";
 import PageLayout from "../../components/layouts/PageLayout";
 import ReactMarkdown from "react-markdown";
-import domain from "../../data/url";
 
 export default function Home(props) {
   const { title, description, markdown } = props.articleData;
