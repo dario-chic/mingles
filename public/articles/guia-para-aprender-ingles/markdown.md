@@ -4,13 +4,13 @@
 
 ---
 
-![GUIA PARA APRENDER INGLES](/articles/guia-para-aprender-ingles-completa/ingles.webp)
+![GUIA PARA APRENDER INGLES](/articles/guia-para-aprender-ingles/ingles.webp)
 
-Hi! Bienvenido a nuestra guía para aprender inglés **facilmente**, **rápidamente** y **eficazmente**, para que lleves tu nivel a donde nunca antes habías imaginado en muy poco tiempo. Aquí aprenderás los secretos y las técnicas reales para adquirir cualquier idioma con el _“mínimo esfuerzo”_, y te adelanto, olvídate de la gramática y de los métodos tradicionales y aburridos. Y si, si puedes hacerlo sin ellos.
+Hi! Bienvenido a nuestra guía para aprender inglés **facilmente**, **rápidamente** y **eficazmente**, para que lleves tu nivel a donde nunca antes habías imaginado en muy poco tiempo. Aquí aprenderás los secretos y las técnicas reales para adquirir cualquier idioma con el _“mínimo esfuerzo”_, y te adelanto, olvídate _por ahora_ de estudiar reglas gramaticales y de los métodos tradicionales y aburridos. Y si, si puedes hacerlo sin ellos.
 
 Primero que nada, date cuenta que escribí **“adquirir”** y no **“aprender”**, esto porque para volverte realmente fluido en cualquier idioma necesitas adquirirlo en lugar de aprenderlo. Esto puede ser un poco confuso así que déjame aclárarte estos dos conceptos.
 
-Cuando **aprendemos** nos dedicamos a estudiar aspectos de la lengua que queremos aprender, como la gramática y conjugaciones, este es un proceso que hacemos conscientemente. En general, cuando aprendemos un idioma, vamos a clases, donde tenemos un profesor que nos explica las reglas, por ejemplo, como formar “past perfect”, esto es aburrido y poco eficaz.
+Cuando **aprendemos** nos dedicamos a estudiar aspectos de la lengua que queremos aprender, como la gramática y conjugaciones, este es un proceso que hacemos conscientemente. En general, cuando aprendemos un idioma, vamos a clases, donde tenemos un profesor que nos explica las reglas, por ejemplo, como formar “past perfect”, el aprender/estudiar un idioma por si solo es poco eficaz y sumamente aburrido y tedioso.
 
 Una persona que _aprende_ un idioma va a desarrollar la capacidad de explicar la estructura de las oraciones. El problema es que tener esta capacidad o conocer una regla gramatical, no quiere decir que vas a tener la habilidad de usarla al comunicarte. Puedes conocer a la perfección la estructura para formar el presente perfecto, pero ser totalmente incapaz de usarlo en tus conversaciones, que es lo que sucede a menudo cuando se _aprende_ un idioma.
 
@@ -22,11 +22,13 @@ A partir de todo esto surge el método para aprender idiomas (y en el que se bas
 
 En otras palabras, el input comprensible consiste en algo tan sencillo como _exponerse_ a uno mismo, a el idioma que queremos _adquirir_ tanto como sea posible siempre en un nivel un poco superior al que se tiene, y a partir de ahí deducir el significado de las cosas a partir del **contexto** (importante este punto).
 
-![Input Comprensible](/articles/guia-para-aprender-ingles-completa/input.webp)
+![Input Comprensible](/articles/guia-para-aprender-ingles/input.webp)
 
 Quizás ahora te sonara un poco confuso y hasta un poco ilógico este método, ya que desde siempre nos han dicho y hemos creído que el verdadero método es el aprendizaje por los métodos tradicionales y aburridos, pero no te apresures, más adelante lo entenderás mejor y tú forma de ver las cosas cambiaran por completo, también te enseñaré como aplicarlo eficientemente para obtener los mejores resultados, por ahora quédate con esta idea:
 
 > "La adquisición es mas importante que el aprendizaje" S. Krashen
+
+También quiero aclarar que no estoy en contra de la gramática ni nada por el estilo, de hecho, combinada con el input esta resulta una herramienta sumamente útil para avanzar más rápido, mas adelante te hablaré acerca de ello.
 
 ---
 
@@ -48,7 +50,7 @@ Sin más preámbulo, empieza la guía para que adquieras el inglés fácilmente,
 
 Si arrojas a una persona que no sabe nadar al mar posiblemente se ahogue, pero si le das flotadores tendrá un sostén para aguantarse mientras se adapta y aprende a nadar poco a poco. Esta misma analogía aplica al aprendizaje de idiomas. Y nuestros flotadores son tener una base con los conceptos básicos y vocabulario inicial.
 
-![Persona ahogandose](/articles/guia-para-aprender-ingles-completa/drowning.webp)
+![Persona ahogandose](/articles/guia-para-aprender-ingles/drowning.webp)
 
 Esta guía se basa en **input comprensible,** que en resumen se basa en consumir contenido en el idioma que se quiere _adquirir_ (en este caso ingles), tanto como sea posible. Pero para que pueda funcionar correctamente es necesario tener una pequeña base en el idioma, para que nuestro cerebro tenga un punto de partida para adaptarse e irlo adquiriendo, de otro modo solo vas a frustrarte y terminaras adquiriendo poco o nada de lo que estas consumiendo.
 
@@ -72,7 +74,7 @@ Una vez ya estás un poco más familiarizado con el idioma y no te encuentras ta
 
 Para que funcione el **Input** correctamente tiene que ser una experiencia que disfrutes, así que sencillamente tienes que escoger el material que más te guste, con los temas que más te interesen, algo que básicamente verías tú en tu idioma nativo, pero ahora lo harás en la lengua que quieres adquirir, cualquier material que se te ocurra (Youtube, series de netflix, libros, etc..), probablemente te inclines más por series o películas, pero como consejo también elige textos (libros, noticias, cuentos, etc…) para practicar la lectura.
 
-![Hombre viendo Netflix](/articles/guia-para-aprender-ingles-completa/serie.webp)
+![Hombre viendo Netflix](/articles/guia-para-aprender-ingles/serie.webp)
 
 Algo importante es que **tienes que estar consciente de tu nivel** y del nivel del material que eliges, quizás quieras elegir una serie como Peaky Blinders donde el vocabulario y acento es muy avanzado o un libro para adultos donde el vocabulario sin duda es muy avanzado también. Pero dependiendo de tu nivel esto va a traerte problemas. Elegir algo de un nivel muy superior hará más difícil la comprensión y seguro tendrás que detenerte muy frecuentemente para investigar vocabulario y no perderte, esto hará que el proceso sea un poco frustrante y en este estado mental es muy difícil la adquisición.
 
@@ -133,9 +135,9 @@ Ahora para complementar el input y apresurar nuestro proceso de adquisición pas
 
 No te asustes, no es lo que piensas.
 
-![Persona estudiando](/articles/guia-para-aprender-ingles-completa/estudiar.webp)
+![Persona estudiando](/articles/guia-para-aprender-ingles/estudiar.webp)
 
-Una vez te sientas bastante familiarizado con el idioma, te sientas más cómodo y tengas un mayor entendimiento del mismo, es hora de pasar al estudio… Pero no al estudio que estamos acostumbrados. Como dije anteriormente la gramática no es lo más importante al momento de aprender un idioma, sin embargo, esta resulta extremadamente útil para mejorar nuestra habilidad lingüística mucho más rápido.
+Una vez te sientas bastante familiarizado con el idioma, te sientas más cómodo y tengas un mayor entendimiento del mismo, es hora de pasar al estudio… Pero no al estudio que estamos acostumbrados. Como dije anteriormente la gramática no es lo más importante al momento de aprender un idioma, sin embargo, combinada con el input esta resulta extremadamente útil para mejorar nuestra habilidad lingüística mucho más rápido.
 
 > “La habilidad lingüística es la habilidad para crear oraciones lógicas
 > y correctas y de una habilidad activa que requiere de la articulación
@@ -174,7 +176,7 @@ Por otro lado existe una forma de hacer output que si nos ayudará a mejorar gra
 
 Esta es la razón por la cual las personas que se van a vivir a un país con una lengua diferente a la materna consiguen _adquirir_ el idioma y mejorar sus habilidades lingüísticas de una forma muy rápida. La gente creería que la práctica o el constante output es el motivo de esto, pero en realidad lo es el hecho de estar rodeado del idioma recibiendo grandes cantidades de input en todo momento.
 
-![Personas hablando](/articles/guia-para-aprender-ingles-completa/context.webp)
+![Personas hablando](/articles/guia-para-aprender-ingles/context.webp)
 
 Por supuesto no todos podemos darnos el lujo de irnos a vivir a otro país, pero podemos intentar **imitarlo**, exactamente realizando el input comprensible (consumiendo contenido completamente en inglés), consiguiendo amigos interesados en hablar el mismo idioma para comunicarse en el y corrigirse los errores mutuamente, avanzando juntos. También puedes encontrar personas más avanzadas o nativas con las cuales poder conversar y recibir toda su experiencia.
 
@@ -182,9 +184,9 @@ Exactamente esto es lo que hacemos en **Mingles**, en nuestra comunidad podrás 
 
 Y así damos por concluida nuestra guía para aprender inglés, me alegra que hayas llegado hasta aquí, eso demuestras tus grandes ganas de adquirir el idioma. Sabemos que posiblemente todo esto es nuevo para ti y puede sonar raro o ilógico ya que se sale de todo lo que nos han enseñado, al menos fue el sentimiento que yo tuve cuando descubrí todo esto, estaba supe reacio a creer que se pudiera aprender así, a pesar de eso realmente quería saber inglés y como al final no perdia nada decidí darle una oportunidad. Tan solo 2 meses después pude alcanzar un nivel que jamás creí que podría tener, pasando de un nivel principiante donde no entendía casi ni una sola palabra, al punto donde empezaba a leer textos y entender lo que decía, podía ver memes en inglés y empezaba a ver series y películas con muchísima menos dificultad.
 
-Por eso decidí fundar **Mingles**, siempre veo personas con muchas ganas de aprender inglés, pero luchando porque nunca logran buenos resultados. Decidí que podría ayudar compartiendo todo esto que he aprendido y creando el espacio que siempre me hubiese gustado tener para practicar. Y así ayudar a acortar el camino de las personas que están en la misma posición que yo al empezar, con ganas de adquirir el inglés, pero cansado de no avanzar en el método tradicional y no saber qué hacer. Así que te invito a darle un intento, intenta hacerlo de forma constante durante un par de meses y te asombraras con todo el progreso que obtendrás, es una sensación increíble ver como pasas de no entender nada, a poder defenderte en el idioma, a través de un método divertido y de “**poco esfuerzo**”.
+Por eso decidí fundar **Mingles**, siempre veo personas con muchas ganas de aprender inglés, pero luchando porque nunca logran buenos resultados. Pensé que podría ayudar compartiendo todo esto que he aprendido y creando el espacio que siempre me hubiese gustado tener para practicar. Y así ayudar a acortar el camino de las personas que están en la misma posición que yo al empezar, con ganas de adquirir el inglés, pero cansado de no avanzar en el método tradicional y no saber qué hacer. Así que te invito a darle un intento, intenta hacerlo de forma constante durante un par de meses y te asombraras con todo el progreso que obtendrás, es una sensación increíble ver como pasas de no entender nada, a poder defenderte en el idioma, a través de un método divertido y de “**poco esfuerzo**”.
 
-![Banner de mingles](/articles/guia-para-aprender-ingles-completa/banner.webp)
+![Banner de mingles](/articles/guia-para-aprender-ingles/banner.webp)
 
 A partir de ahora queda todo en tus manos, recuerda que las habilidades no se adquieren leyendo, se adquieren haciendo llevandolas a la práctica, sigue esta guía y todos los consejos plasmados y te prometo lograras esa meta que tanto anhelas de ser totalmente fluido en el inglés.
 

@@ -29,7 +29,7 @@ export async function getStaticPaths() {
   return {
     fallback: false,
     paths: [
-      { params: { article: "guia-para-aprender-ingles-completa" } },
+      { params: { article: "guia-para-aprender-ingles" } },
       { params: { article: "lista-de-recursos-para-aprender-ingles" } },
       { params: { article: "aprende-a-usar-anki-como-un-experto" } },
     ],

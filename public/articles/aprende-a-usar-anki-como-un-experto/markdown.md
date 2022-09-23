@@ -135,9 +135,9 @@ El contexto es lo que está sucediendo en el momento que se dice la oración, qu
 
 > En esta pelicula el perro está disfrutando del paseo
 
-La respuesta de la card o el significado solo nos va a servir solo como un apoyo, para reafirmar la idea y entender mejor y con un poco más de profundidad la palabra u expresión. Si solo aprendemos la palabra individualmente y su significado, vamos a "entender" que significa la palabra, pero al final realmente no entenderemos la idea de la misma y no sabremos como usarla.
+La respuesta de la card o el significado nos va a servir solo como un apoyo, reafirmando la idea para entender un poco mejor y con un poco más de profundidad la palabra u expresión. Si solo aprendemos la palabra individualmente y su significado, vamos a "entender" que significa la palabra, pero al final realmente no entenderemos la idea de la misma y no sabremos como usarla.
 
-Y lo más importante, y es algo que siempre hay que considerar es que, **una misma palabra, phrasal verb o expresion puede usarse para expresar cosas totalmente distintas**, y lo que signifique en un momento dado siempre dependerá del contexto. De hecho, en mis mazos tengo variedad de cards, para una misma palabra, pero con diferentes contextos y significados, y es lo que te pasará a ti también.
+Y lo más importante, y es algo que siempre hay que considerar es que, **una misma palabra, phrasal verb o expresion puede usarse para expresar cosas totalmente distintas**, y lo que signifique en un momento dado siempre dependerá del contexto de la situación. De hecho, en mis mazos tengo varias cards para una misma palabra, pero con diferentes contextos y significados, esto debería sucederte a ti también.
 
 Un ejemplo de esto es la palabra book:
 

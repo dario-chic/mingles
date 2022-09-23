@@ -12,14 +12,6 @@ export default function Home() {
       <School />
       <Meetings />
       <Questions />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
     </PageLayout>
   );
 }

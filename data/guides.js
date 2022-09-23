@@ -6,7 +6,7 @@ const guides = [
     description:
       "Aprende, domina y aplica los secretos detras de aprender un idioma  para alcanzar la verdadera fluidez en menos de lo que imaginas.",
     img: "ingles.jpg",
-    link: "guia-para-aprender-ingles-completa",
+    link: "guia-para-aprender-ingles",
   },
   {
     title: "Aprende a usar Anki como un experto.",
@@ -20,7 +20,7 @@ const guides = [
     description:
       "Desde principiante hasta mas avanzado, te creamos una lista con el mejor contenido para prácticar tu ingles. Podcast, series, lecture y más.",
     img: "recursos.jpg",
-    link: "lista-de-recursos-para-aprener-ingles",
+    link: "lista-de-recursos-para-aprender-ingles",
   },
 ];
 

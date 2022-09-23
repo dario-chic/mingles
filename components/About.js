@@ -6,22 +6,26 @@ import Help from "./svg/Help";
 import Learn from "./svg/Learn";
 import Meet from "./svg/Meet";
 
-const description = `Mingles es una comunidad Latinoamericana fundada en respuesta a lanecesidad de las personas interesadas en aprender o mejorar su Inglés, de tener un ambiente donde pueden conversar con otras personas (eninglés), dar y recibir feedback, consejos y ayuda, con el fin de mejorar sus habilidades en el idioma y comunicarse de forma totalmente fluida. 
+const description = `Mingles es una comunidad Latinoamericana que ayuda a las personas a aprender inglés de una forma rápida, fácil, eficaz y gratuita. En Minglés te enseñamos los métodos realmente eficaces para que adquieras no solo el inglés, sino cualquier idioma que desees. 
 
-Gratis por supuesto. 
+En mingles hemos creado el espacio que toda persona necesita en su proceso de adquisición del inglés, un ambiente donde puedes comunicarte (en inglés) con otras personas, desde principiantes a nativos, para practicar y recibir ayuda, feedback, consejos y demás, para así mejorar sus habilidades en el idioma y conseguir esa fluidez que tanto se anhela. 
 
-Es importante destacar que <span class="bold">no somos una escuela</span>, somos una comunidad. No tenemos profesores, ni damos clases, ni nada parecido a una institución convencional de inglés. Sí, tenemos “profesores” , pero estos no están aquí para dar clases, sino para ayudar de otras maneras. Si quieres unirte y saber más sobre la comunidad unete a nuestro <a class="link link--about" href="https://discord.gg/P2aGSpg8cr" target="_blank" rel="noreferrer">Discord</a>.`;
+<span class="bold">Gratis</span> por supuesto. 
+
+Es importante destacar que <span class="bold">no somos una escuela</span>, somos una comunidad. No impartimos clases clases, ni nada parecido a una institución convencional de inglés. Sí, tenemos “profesores” , pero estos no están aquí para dar clases, sino para ayudar de otras maneras. 
+
+Si quieres obtener esa fluidez que tanto deseas para comunicarte en inglés y expandir tus oportunidades en la vida, sin duda deberías ser miembro de <span class="bold">Mingles</span>!. Para saber más sobre la comunidad unete a nuestro <a class="link link--about" href="https://discord.gg/P2aGSpg8cr" target="_blank" rel="noreferrer">Discord</a>.`;
 
 const brief = [
   {
     Svg: Meet,
     title: "Meet other English speakers",
-    info: "Conoce personas de todas partes del mundo, desde personas iniciantes en el idioma hasta nativos.",
+    info: "Conoce personas de todas partes del mundo, desde personas principiantes hasta nativos.",
   },
   {
     Svg: Learn,
     title: "Learn while having fun",
-    info: "Conversa sobre temas interesantes, aprende nuevas cosas diviertete y aprende en el camino.",
+    info: "Conversa sobre temas interesantes, aprende nuevas cosas, diviertete y aprende en el camino.",
   },
   {
     Svg: Feedback,
