@@ -39,7 +39,9 @@ export async function getStaticPaths() {
 export async function getStaticProps(context) {
   const article = context.params.article;
 
-  const res = await fetch(`/articles/${article}/articleInfo.json`);
+  const res = await fetch(
+    `https://mingles.vercel.app/articles/${article}/articleInfo.json`
+  );
   const json = await res.json();
 
   const guide = await fetch(json.markdown);
