@@ -54,7 +54,7 @@ Para los podcasts realmente no tenemos descripción, ya que le temática que aba
 
 En los podcast para principiantes hablan más "lento" y pronunciando mejor, mientras que en los avanzados son conversaciones mas cotidianas con pronunciación rápida.
 
-### Principiante
+<!-- ### Principiante -->
 
 - **English teacher John**
 
@@ -62,7 +62,7 @@ En los podcast para principiantes hablan más "lento" y pronunciando mejor, mien
 
 - **Amigos Ingleses**
 
-### Intermedio
+<!-- ### Intermedio -->
 
 - **English Learning for Curious Minds**
 
@@ -80,7 +80,7 @@ Como principiantes los libros suelen ser lo más difícil de consumir debido a q
 
 Una vez ya puedas leerlos sin demasiado problema, también te dejamos una lista de libros un poco mas avanzado para que pases al siguiente nivel.
 
-### Principiante
+<!-- ### Principiante -->
 
 - **Where is my cheese at?(Spencer Johnson):** Un pequeño libro de motivación que muestra la sorprendente forma de afrontar el cambio en el trabajo y en la vida privada.
 
@@ -90,7 +90,7 @@ Una vez ya puedas leerlos sin demasiado problema, también te dejamos una lista 
 
 - **Harry Potther and the Philosoper’s Stone (J.K Rowling):** Este libro narra la lucha entre un jovén mago y el malvado mago que asesinó a sus padres en su afán de conquistar el mundo mágico.
 
-### Intermedio
+<!-- ### Intermedio -->
 
 - **The Lord of the Flies:** Un grupo de niños queda varado en una isla desierta. Tendrán que aprender a sobrevivir por ellos mismos hasta que llegue el rescate.
 
