@@ -4,7 +4,7 @@ import PageLayout from "../components/layouts/PageLayout";
 
 const NotFound = () => {
   return (
-    <PageLayout title="Not Found">
+    <PageLayout title="Not Found" header={false}>
       <Error404 />
     </PageLayout>
   );

@@ -40,7 +40,7 @@ export default function Home(props) {
         } catch (err) {
           setError(true);
         }
-        // setLoading(false);
+        setLoading(false);
       };
 
       getArticle(`/articles/${article}/articleInfo.json`);
@@ -50,7 +50,7 @@ export default function Home(props) {
   return (
     <>
       {loading ? (
-        <PageLayout title="Not Found">
+        <PageLayout title="Not Found" header={false} nav="school">
           <Loader />
         </PageLayout>
       ) : !error ? (
@@ -67,7 +67,7 @@ export default function Home(props) {
           </section>
         </PageLayout>
       ) : (
-        <PageLayout title="Not Found">
+        <PageLayout title="Not Found" header={false} nav="school">
           <Error404 />
         </PageLayout>
       )}
