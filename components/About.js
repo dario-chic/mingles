@@ -6,7 +6,7 @@ import Help from "./svg/Help";
 import Learn from "./svg/Learn";
 import Meet from "./svg/Meet";
 
-const description = `Mingles es una comunidad Latinoamericana que ayuda a las personas a aprender inglés de una forma rápida, fácil, eficaz y gratuita. En Minglés te enseñamos los métodos realmente eficaces para que adquieras no solo el inglés, sino cualquier idioma que desees. 
+const description = `Mingles es una comunidad Latinoamericana que ayuda a las personas a aprender inglés de una forma rápida, fácil, eficaz y gratuita. Te enseñamos los métodos realmente eficaces para que adquieras no solo el inglés, sino cualquier idioma que desees. 
 
 En mingles hemos creado el espacio que toda persona necesita en su proceso de adquisición del inglés, un ambiente donde puedes comunicarte (en inglés) con otras personas, desde principiantes a nativos, para practicar y recibir ayuda, feedback, consejos y demás, para así mejorar sus habilidades en el idioma y conseguir esa fluidez que tanto se anhela. 
 
