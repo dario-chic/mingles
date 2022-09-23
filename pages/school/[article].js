@@ -24,12 +24,10 @@ export default function Home(props) {
       const getArticle = async (url) => {
         try {
           const res = await fetch(url);
-          console.log(res);
 
           if (!res.ok) throw { err: false };
 
           const json = await res.json();
-          console.log(json);
 
           const guide = await fetch(json.markdown);
           const markdown = await guide.text();
@@ -89,15 +87,10 @@ export default function Home(props) {
 // export async function getStaticProps(context) {
 //   const article = context.params.article;
 
-<<<<<<< HEAD
-  const res = await fetch(`./articles/${article}/articleInfo.json`);
-  const json = await res.json();
-=======
 //   const res = await fetch(
 //     `http://localhost:3000/articles/${article}/articleInfo.json`
 //   );
 //   const json = await res.json();
->>>>>>> develop
 
 //   const guide = await fetch(json.markdown);
 //   const markdown = await guide.text();
