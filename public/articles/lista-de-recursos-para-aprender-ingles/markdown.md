@@ -1,6 +1,6 @@
 # Recursos para Aprender Inglés
 
-> Publicado el 09/27/2022
+> Written by Yoeli Vicent
 
 ---
 

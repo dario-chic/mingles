@@ -118,3 +118,96 @@
     margin-bottom: 2rem;
   }
 }
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 150px);
+  text-align: center;
+
+  .loader__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  h2 {
+    position: relative;
+    padding-right: 13px;
+    font-family: var(--font1);
+    color: var(--color1);
+    font-size: 2.1rem;
+    margin-top: 1.5rem;
+    &::after {
+      content: "...";
+      position: absolute;
+      animation: loadDots 3s infinite;
+    }
+    @keyframes loadDots {
+      0% {
+        content: "";
+      }
+      33.3% {
+        content: ".";
+      }
+      66.6% {
+        content: "..";
+      }
+      99.9% {
+        content: "...";
+      }
+    }
+  }
+
+  .clock-loader {
+    --clock-color: var(--color1);
+    --clock-width: 4rem;
+    --clock-radius: calc(var(--clock-width) / 2);
+    --clock-minute-length: calc(var(--clock-width) * 0.4);
+    --clock-hour-length: calc(var(--clock-width) * 0.2);
+    --clock-thickness: 0.2rem;
+
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: var(--clock-width);
+    height: var(--clock-width);
+    border: 3px solid var(--clock-color);
+    border-radius: 50%;
+    transform: scale(1.5);
+
+    &::before,
+    &::after {
+      position: absolute;
+      content: "";
+      top: calc(var(--clock-radius) * 0.25);
+      width: var(--clock-thickness);
+      background: var(--clock-color);
+      border-radius: 10px;
+      transform-origin: center calc(100% - calc(var(--clock-thickness) / 2));
+      animation: spin infinite linear;
+    }
+
+    &::before {
+      height: var(--clock-minute-length);
+      animation-duration: 2s;
+    }
+
+    &::after {
+      top: calc(var(--clock-radius) * 0.25 + var(--clock-hour-length));
+      height: var(--clock-hour-length);
+      animation-duration: 15s;
+    }
+  }
+
+  @keyframes spin {
+    to {
+      transform: rotate(1turn);
+    }
+  }
+}

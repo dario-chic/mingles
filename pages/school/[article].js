@@ -40,7 +40,7 @@ export default function Home(props) {
         } catch (err) {
           setError(true);
         }
-        setLoading(false);
+        // setLoading(false);
       };
 
       getArticle(`/articles/${article}/articleInfo.json`);
@@ -50,7 +50,9 @@ export default function Home(props) {
   return (
     <>
       {loading ? (
-        <Loader />
+        <PageLayout title="Not Found">
+          <Loader />
+        </PageLayout>
       ) : !error ? (
         <PageLayout
           title={dataArticle.title}
