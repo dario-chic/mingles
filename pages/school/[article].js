@@ -3,6 +3,7 @@ import Script from "next/script";
 import { useEffect, useState } from "react";
 import PageLayout from "../../components/layouts/PageLayout";
 import ReactMarkdown from "react-markdown";
+import domain from "../../data/url";
 
 export default function Home(props) {
   const { title, description, markdown } = props.articleData;
@@ -39,9 +40,7 @@ export async function getStaticPaths() {
 export async function getStaticProps(context) {
   const article = context.params.article;
 
-  const res = await fetch(
-    `http://localhost:3000/articles/${article}/articleInfo.json`
-  );
+  const res = await fetch(`${domain}/articles/${article}/articleInfo.json`);
   const json = await res.json();
 
   const guide = await fetch(json.markdown);
