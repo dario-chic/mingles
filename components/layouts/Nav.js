@@ -74,23 +74,23 @@ const Nav = () => {
         ref={list}
       >
         <li className="nav__item" onClick={handleNav}>
-          <Link className="nav__a" href="#about">
-            <a className="nav__a">About us</a>
+          <Link className="nav__link" href="#about">
+            <a className="nav__link">About us</a>
           </Link>
         </li>
         <li className="nav__item" onClick={handleNav}>
-          <Link className="nav__a" href="#our-school">
-            <a className="nav__a">School</a>
+          <Link className="nav__link" href="#our-school">
+            <a className="nav__link">School</a>
           </Link>
         </li>
         <li className="nav__item" onClick={handleNav}>
           <Link href="#meetings">
-            <a className="nav__a">Meetings</a>
+            <a className="nav__link">Meetings</a>
           </Link>
         </li>
         <li className="nav__item" onClick={handleNav}>
-          <Link className="nav__a" href="#faq">
-            <a className="nav__a">Questions</a>
+          <Link className="nav__link" href="#faq">
+            <a className="nav__link">Questions</a>
           </Link>
         </li>
         <li className="nav__item" onClick={handleNav}>
