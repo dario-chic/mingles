@@ -25,8 +25,8 @@ const Header = () => {
             data-aos-duration="1200"
             data-aos-delay="700"
           >
-            Te ayudamos a mejorar tus hábilidades con el Inglés para expandir
-            tus oportunidades en la vida.
+            Te ayudamos a mejorar tus hábilidades con el Inglés para que
+            expandas tus oportunidades en la vida.
           </p>
           <DiscordButton
             modifier="big"
