@@ -4,7 +4,7 @@ const guides = [
   {
     title: "Guía para Aprender Inglés Completa",
     description:
-      "Aprende, domina y aplica los secretos detras de aprender un idioma  para alcanzar la verdadera fluidez en menos de lo que imaginas.",
+      "Aprende, domina y aplica los secretos detras de aprender un idioma  para que alcances la verdadera fluidez en menos de lo que imaginas.",
     img: "ingles.jpg",
     link: "guia-para-aprender-ingles",
   },

@@ -4,15 +4,16 @@ import Plus from "./svg/Plus";
 const questions = [
   {
     question: "¿Cómo unirse a Mingles?",
-    detail: `Unirse es muy sencillo, solo debes ingresar a <a class="link link--about" href="https://discord.gg/P2aGSpg8cr" target="_blank" rel="noreferrer">nuestro discord</a>, allí encontraras el resto de la información necesaria para tener una buena estadía en la comunidad.`,
+    detail: `Unirse es muy sencillo, solo debes ingresar a <a class="link link--about" href="https://discord.gg/P2aGSpg8cr" target="_blank" rel="noreferrer">nuestro discord</a> y allí encontraras el resto de la información necesaria para tener una buena estadía en la comunidad.`,
   },
   {
     question: "¿Por qué ser parte de Mingles?",
-    detail: `Si deseas aprender inglés en serio, rápidamente, eficazmente y llevarlo al siguiente nivel, sin duda deberías ser parte de nuestra comunidad. En Mingles encontraras todas las herramientas que necesitas para lograr tu nivel deseado.`,
+    detail: `Si en serio deseas aprender inglés, 
+    y realmente obtener buenos resultados, sin duda deberías ser parte de nuestra comunidad. En Mingles encontraras todas las herramientas que necesitas para lograr tu nivel deseado.`,
   },
   {
     question: "¿De verdad es gratis?",
-    detail: `Desde luego ser parte de la comunidad y participar en todos los eventos es totalmente gratuito. Hay algunas activades pagas (como charlas personalizadas con profesores), pero claramente estas son opcionales para los que quieran ir mas allá en su jornada.`,
+    detail: `Ser parte de la comunidad y participar en todos los eventos es totalmente gratuito. Hay algunas activades pagas (como charlas personalizadas con profesores), pero claramente estas son opcionales para los que quieran ir mas allá en su jornada.`,
   },
   {
     question: "¿Mingles es una aplicación?",
@@ -20,7 +21,7 @@ const questions = [
   },
   {
     question: "¿Cómo puedo colaborar con Mingles?",
-    detail: `Si te gusta el proyecto y quieres colaborar de cualquier manera con el para hacerlo crecer y mejorar, comunicate a nuestro correo contact@mingles.com o por contact@dariochic.com. Estaremos muy agradecidos con tu ayuda!`,
+    detail: `Si te gusta el proyecto y quieres colaborar de cualquier manera para hacerlo crecer y mejorar, comunicate a nuestro correo contact@mingles.com o por contact@dariochic.com. Estaremos muy agradecidos con tu ayuda!`,
   },
 ];
 
