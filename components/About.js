@@ -6,13 +6,16 @@ import Help from "./svg/Help";
 import Learn from "./svg/Learn";
 import Meet from "./svg/Meet";
 
-const description = `Mingles es una comunidad Latinoamericana que ayuda a las personas a aprender inglés de una forma <span class="bold">rápida, fácil y eficaz de forma gratuita</span>. Nuestra misión es ayudar a expandir las oportunidades en la vida de las personas a través del inglés y revolucionar su forma de aprendizaje en Latinoamérica.
+const description = `En <span class="bold">Mingles</span> queremos ayudarte a <span class="bold">expandir tus oportunidades</span> en la vida a través del inglés, enseñándote el verdadero método y dandote las herramientas realmente eficaces para que por fin aprendas no solo el inglés, sino cualquier idioma que desees. 
 
-En Mingles te enseñamos los <span class="bold">métodos realmente eficaces</span> para que aprendas no solo el inglés, sino cualquier idioma que desees. 
+Somos una comunidad Latinoamericana donde ayudamos a las personas a aprender inglés de manera <span class="bold">rápida, fácil, eficaz y de forma gratuita</span>. 
 
-También hemos creado el espacio que necesita toda persona que planear aprender inglés. Un ambiente donde puedes comunicarte (en inglés) con personas de todo el mundo, para practicar, recibir ayuda, feedback, consejos y demás. Y así mejorar sus habilidades en el idioma consiguiendo esa fluidez que tanto se anhela. 
+Enseñamos los métodos y creamos el espacio que necesita toda persona que planea aprender inglés. Un espacio donde puedas comunicarte (en inglés) con personas de todo el mundo, para practicar, recibir ayuda, feedback, consejos y demás. Mejorando tus habilidades en el idioma y consiguiendo esa fluidez que tanto anhelas. 
 
-Nuestra visión u objetivo es ser la herramienta que transforme la vida de las personas y expanda globalmente la sociedad y el talento Latinoamericano. Si quieres obtener esa fluidez que tanto deseas para extender tus fronteras y expandir tus oportunidades en la vida, sin duda deberías ser miembro de Mingles! Para saber más sobre la comunidad únete a nuestro <a class="link link--about" href="https://discord.gg/P2aGSpg8cr" target="_blank" rel="noreferrer">Discord</a>.
+Nuestra meta es ser la herramienta que transforme la vida de las personas y expanda globalmente la sociedad y el talento Latinoamericano.
+
+¡Si quieres obtener esa fluidez que tanto deseas para extender tus fronteras y expandir tus oportunidades en la vida, sin duda deberías ser miembro de Mingles! Para saber más sobre la comunidad únete a nuestro <a class="link link--about" href="https://discord.gg/P2aGSpg8cr" target="_blank" rel="noreferrer">Discord</a>
+
 `;
 
 const brief = [
