@@ -9,43 +9,45 @@ import Loader from "../../components/Loader";
 export default function Home(props) {
   const [dataArticle, setDataArticle] = useState(null);
   const [error, setError] = useState(false);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
 
-  // const { title, description, markdown } = props.articleData;
-  const router = useRouter();
-  const { article } = router.query;
+  const { title, description, markdown } = props.articleData;
 
-  useEffect(() => {
-    setLoading(true);
-    setError(false);
-    setDataArticle(null);
+  console.log(props);
+  // const router = useRouter();
+  // const { article } = router.query;
 
-    if (article) {
-      const getArticle = async (url) => {
-        try {
-          const res = await fetch(url);
+  // useEffect(() => {
+  //   setLoading(true);
+  //   setError(false);
+  //   setDataArticle(null);
 
-          if (!res.ok) throw { err: false };
+  //   if (article) {
+  //     const getArticle = async (url) => {
+  //       try {
+  //         const res = await fetch(url);
 
-          const json = await res.json();
+  //         if (!res.ok) throw { err: false };
 
-          const guide = await fetch(json.markdown);
-          const markdown = await guide.text();
+  //         const json = await res.json();
 
-          setDataArticle({
-            title: json.title,
-            description: json.description,
-            markdown,
-          });
-        } catch (err) {
-          setError(true);
-        }
-        setLoading(false);
-      };
+  //         const guide = await fetch(json.markdown);
+  //         const markdown = await guide.text();
 
-      getArticle(`/articles/${article}/articleInfo.json`);
-    }
-  }, [article]);
+  //         setDataArticle({
+  //           title: json.title,
+  //           description: json.description,
+  //           markdown,
+  //         });
+  //       } catch (err) {
+  //         setError(true);
+  //       }
+  //       setLoading(false);
+  //     };
+
+  //     getArticle(`/articles/${article}/articleInfo.json`);
+  //   }
+  // }, [article]);
 
   return (
     <>
@@ -55,14 +57,14 @@ export default function Home(props) {
         </PageLayout>
       ) : !error ? (
         <PageLayout
-          title={dataArticle.title}
-          description={dataArticle.description}
+          title={title}
+          description={description}
           header={false}
           nav="school"
         >
           <section className="section section--article">
             <div className="article">
-              <ReactMarkdown>{dataArticle.markdown}</ReactMarkdown>
+              <ReactMarkdown>{markdown}</ReactMarkdown>
             </div>
           </section>
         </PageLayout>
@@ -75,35 +77,37 @@ export default function Home(props) {
   );
 }
 
-// export async function getStaticPaths() {
-//   return {
-//     fallback: false,
-//     paths: [
-//       { params: { article: "guia-para-aprender-ingles" } },
-//       { params: { article: "lista-de-recursos-para-aprender-ingles" } },
-//       { params: { article: "aprende-a-usar-anki-como-un-experto" } },
-//     ],
-//   };
-// }
+export async function getStaticPaths() {
+  return {
+    fallback: false,
+    paths: [
+      { params: { article: "guia-para-aprender-ingles" } },
+      { params: { article: "lista-de-recursos-para-aprender-ingles" } },
+      { params: { article: "aprende-a-usar-anki-como-un-experto" } },
+    ],
+  };
+}
 
-// export async function getStaticProps(context) {
-//   const article = context.params.article;
+export async function getStaticProps(context) {
+  const article = context.params.article;
 
-//   const res = await fetch(
-//     `http://localhost:3000/articles/${article}/articleInfo.json`
-//   );
-//   const json = await res.json();
+  const res = await fetch(
+    `https://www.minglesc.com/articles/${article}/articleInfo.json`
+  );
+  const json = await res.json();
 
-//   const guide = await fetch(json.markdown);
-//   const markdown = await guide.text();
+  const guide = await fetch(`https://www.minglesc.com/${json.markdown}`);
+  const markdown = await guide.text();
 
-//   return {
-//     props: {
-//       articleData: {
-//         title: json.title,
-//         description: json.description,
-//         markdown,
-//       },
-//     },
-//   };
-// }
+  console.log(`https://www.minglesc.com${json.markdown}`);
+
+  return {
+    props: {
+      articleData: {
+        title: json.title,
+        description: json.description,
+        markdown,
+      },
+    },
+  };
+}

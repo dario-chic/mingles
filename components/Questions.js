@@ -27,7 +27,7 @@ const questions = [
 
 const Questions = () => {
   return (
-    <div
+    <section
       className="questions"
       id="faq"
       data-aos="fade-up"
@@ -54,7 +54,7 @@ const Questions = () => {
           ))}
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

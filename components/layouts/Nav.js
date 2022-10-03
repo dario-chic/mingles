@@ -89,6 +89,11 @@ const Nav = () => {
           </Link>
         </li>
         <li className="nav__item" onClick={handleNav}>
+          <Link href="#team">
+            <a className="nav__link">Team</a>
+          </Link>
+        </li>
+        <li className="nav__item" onClick={handleNav}>
           <Link className="nav__link" href="#faq">
             <a className="nav__link">Questions</a>
           </Link>
