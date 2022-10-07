@@ -1,14 +1,15 @@
 .section,
 .questions,
-.school {
+.school,
+.team {
   margin-bottom: 1rem;
   width: 100%;
   padding-inline: var(--general-padding);
-  padding-block: 80px;
+  padding-block: 65px;
   text-align: left;
 
   &__container,
-  .questions__containe,
+  .questions__container,
   .article,
   .school__container {
     margin-inline: auto;

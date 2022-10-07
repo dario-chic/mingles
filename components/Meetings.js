@@ -9,7 +9,7 @@ import Meetings from "./svg/Meetings";
 
 const description = `Nuestras meetings crean un ambiente más dinámico e interactivo entre nuestros miembros, también generan un mayor progreso en el proceso de adquisición del idioma. 
 
-<span class="bold">¿De qué tratan?</span> Como su nombre lo indica, son reuniones que se realizan habitualmente en la comunidad. Los organizadores fijan una fecha de encuentro, avisan el tema de la reunión a los miembros, estos se informan y en la fecha indicada se discute (en inglés) sobre el tema en una reunión.
+<span class="bold">¿De qué tratan?</span> Como su nombre lo indica, son reuniones que se realizan habitualmente en la comunidad. Los organizadores fijan una fecha de encuentro, avisan el tema de la reunión a los miembros, estos se informan y en la fecha indicada se discute sobre el tema en una reunión, todo en inglés.
 
 Los organizadores o “profesores” se encargarán de dirigir la reunión, realizando preguntas, alentando a los miembros a conversar, creando un ambiente agradable y por supuesto ayudando a los miembros; corrigiendo sus errores y dando consejos para mejorar cada vez más y más.
 

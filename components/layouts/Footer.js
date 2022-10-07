@@ -5,7 +5,9 @@ import Linkedin from "../svg/Linkedin";
 const Footer = () => {
   return (
     <footer className="footer">
-      <p className="footer__copy">Creado por Mingles - 2022</p>
+      <p className="footer__copy">
+        ©2022 Mingles Community - All rights reserved.
+      </p>
       <img
         width="auto"
         height="auto"
