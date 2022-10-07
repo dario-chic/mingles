@@ -30,7 +30,8 @@ const members = [
 Porque yo no.`,
     pic: "/members/estefaniateixeira.webp",
     social: {
-      linkedin: "https://www.linkedin.com/in/estefania-teixeira-217ba0211/",
+      linkedin:
+        "https://www.linkedin.com/in/estefan%C3%ADa-teixeira-217ba0211/",
       // twitter: "https://twitter.com/dariochic",
     },
   },
@@ -38,7 +39,7 @@ Porque yo no.`,
     name: "Hector Borges",
     position: "Human Resource Director",
     description:
-      "Mi magia nace desde el primer momento que toco el teclado y mi creatividad aparece tras cada palabra. Soy una mujer emprendedora, incubadora de ideas innovadora y con mucha capacidad de lógica. Mi único limite es... ¿Lo conoces? Porque yo no.",
+      "Siempre estoy dispuesto a aprender nuevas habilidades y a tomar nuevos retos. Siempre responsable, paciente, confiable y muy trabajador.",
     pic: "/members/hectorborges.webp",
     social: {
       linkedin: "https://www.linkedin.com/in/hector-borges-06813a242/",
@@ -53,7 +54,7 @@ Porque yo no.`,
       "Soy una persona curiosa, creativa e innovadora que sueña con crear productos útiles y de calidad a través de la tecnología, productos que tengan un impacto positivo en la vida de las personas.",
     pic: "/members/luigidandrea.webp",
     social: {
-      linkedin: "https://www.linkedin.com/in/dario-chic-11a22a228/",
+      // linkedin: "https://www.linkedin.com/in/dario-chic-11a22a228/",
       // twitter: "https://twitter.com/dariochic",
     },
   },
@@ -64,7 +65,7 @@ Porque yo no.`,
       "Me gusta experimentar y crear cosas nuevas, diferentes e increíbles para expresar sentimientos y emociones a través de mi arte.",
     pic: "/members/edgarquintero.webp",
     social: {
-      linkedin: "https://www.linkedin.com/in/dario-chic-11a22a228/",
+      // linkedin: "https://www.linkedin.com/in/dario-chic-11a22a228/",
       // twitter: "https://twitter.com/dariochic",
     },
   },
