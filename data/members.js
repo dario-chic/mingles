@@ -14,8 +14,7 @@ const members = [
   {
     name: "Yoeli Vicent",
     position: "Co-Founder - COO",
-    description:
-      "Soy una persona curiosa, creativa e innovadora que sueña con crear productos útiles y de calidad a través de la tecnología, productos que tengan un impacto positivo en la vida de las personas.",
+    description: "...",
     pic: "/members/yoelivicent.webp",
     social: {
       linkedin: "https://www.linkedin.com/in/yoeli-vicent-albornoz-4632481a7/",
@@ -50,8 +49,7 @@ Porque yo no.`,
   {
     name: "Luigi D'Andrea",
     position: "Customer Service Director",
-    description:
-      "Soy una persona curiosa, creativa e innovadora que sueña con crear productos útiles y de calidad a través de la tecnología, productos que tengan un impacto positivo en la vida de las personas.",
+    description: "...",
     pic: "/members/luigidandrea.webp",
     social: {
       // linkedin: "https://www.linkedin.com/in/dario-chic-11a22a228/",
