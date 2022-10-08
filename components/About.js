@@ -6,7 +6,7 @@ import Help from "./svg/Help";
 import Learn from "./svg/Learn";
 import Meet from "./svg/Meet";
 
-const description = `En <span class="bold">Mingles</span> queremos ayudarte a <span class="bold">expandir tus oportunidades</span> en la vida a través del inglés, enseñándote los mejores método y dandote las herramientas realmente eficaces para que por fin aprendas no solo el inglés, sino cualquier idioma que desees. 
+const description = `En <span class="bold">Mingles</span> queremos ayudarte a <span class="bold">expandir tus oportunidades</span> en la vida a través del inglés, enseñándote los mejores métodos y las herramientas realmente eficaces para que por fin aprendas no solo el inglés, sino cualquier idioma que desees. 
 
 Somos una comunidad Latinoamericana donde ayudamos a las personas a aprender inglés de manera <span class="bold">rápida</span>, <span class="bold">fácil</span>, <span class="bold">eficaz</span> y de <span class="bold">forma gratuita</span>. 
 

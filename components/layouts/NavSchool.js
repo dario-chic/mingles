@@ -60,7 +60,7 @@ const Nav = () => {
     >
       <Link href="/">
         <picture className="nav__logo">
-          <img src="/mingles-full-logo.png" alt="mingles-logo" />
+          <img src="/mingles-04.svg" alt="aguacandy-logo" />
         </picture>
       </Link>
       <span className="nav__bar" onClick={handleBar}>
