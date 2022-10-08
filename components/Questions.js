@@ -13,7 +13,7 @@ const questions = [
   },
   {
     question: "¿De verdad es gratis?",
-    detail: `Ser parte de la comunidad y participar en todos los eventos es totalmente gratuito. Hay algunas activades pagas (como charlas personalizadas con profesores), pero claramente estas son opcionales para los que quieran ir mas allá en su jornada.`,
+    detail: `Así es, ser miembro, y participar en las actividades y eventos de la comunidad es totalmente gratuito y para todas las personas. A medida que crezcamos es posible que incluyamos características especiales de paga, pero en general, Mingles siempre será de gratis acceso para todos.`,
   },
   {
     question: "¿Mingles es una aplicación?",

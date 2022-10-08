@@ -4,7 +4,7 @@ const members = [
   {
     name: "Dario Chic",
     position: "Founder - CEO",
-    description: `Soy una persona curiosa, creativa e innovadora que sueña con crear productos y servicios útiles y de cálidad a través de la tecnologia, productos y servicios que tengan un impacto positivo en el mundo y cambien la vida de las personas para mejor.`,
+    description: `Soy una persona curiosa, creativa, apasionada e innovadora que sueña con crear productos y servicios útiles y de cálidad a través de la tecnologia, productos y servicios que tengan un impacto positivo en el mundo y cambien la vida de las personas para mejor.`,
     pic: "/members/dariochic.webp",
     social: {
       linkedin: "https://www.linkedin.com/in/dario-chic-11a22a228/",
