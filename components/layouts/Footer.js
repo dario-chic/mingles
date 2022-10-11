@@ -11,8 +11,8 @@ const Footer = () => {
       <img
         width="auto"
         height="auto"
-        src="/mingles-full-logo.png"
-        alt="Logo de mingles"
+        src="/mingles-04.svg"
+        alt="mingles-logo"
       />
       <div className="footer__social">
         <a

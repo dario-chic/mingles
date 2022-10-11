@@ -32,8 +32,6 @@ const PageLayout = ({ children, title, description, header, nav = "" }) => {
         <meta name="robots" content="index" />
         <meta name="image" content="portada.webp" />
         <link rel="canonical" href="https://www.mingles.com/" />
-        <link rel="apple-touch-icon" sizes="192x192" href="logo192x192.png" />
-        <link rel="apple-touch-icon" sizes="512x512" href="logo512x512.png" />
 
         <meta
           property="og:title"

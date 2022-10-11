@@ -49,7 +49,8 @@ Porque yo no.`,
   {
     name: "Luigi D'Andrea",
     position: "Customer Service Director",
-    description: "...",
+    description: `La constancia y la dedicación, son características llamativas en cualquier persona que quiera cumplir con sus objetivos; por eso me dicen que soy necio y terco al momento de centrarme en una meta. 
+Como apasionado del café, me gusta probar y aprender cosas nuevas; además de crear y compartir experiencias.`,
     pic: "/members/luigidandrea.webp",
     social: {
       // linkedin: "https://www.linkedin.com/in/dario-chic-11a22a228/",
