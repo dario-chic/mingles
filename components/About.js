@@ -12,7 +12,7 @@ Somos una comunidad Latinoamericana donde ayudamos a las personas a aprender ing
 
 Enseñamos los métodos y creamos el espacio que necesita toda persona que planea aprender inglés. Un espacio donde puedas comunicarte con personas de todo el mundo, para practicar, recibir ayuda, feedback, consejos y demás. Mejorando tus habilidades en el idioma y consiguiendo esa fluidez que tanto anhelas. 
 
-Nuestra meta es ser la herramienta que transforme la vida de las personas y expanda globalmente la sociedad y el talento Latinoamericano. ¡Si quieres obtener esa fluidez que tanto deseas para extender tus fronteras y expandir tus oportunidades en la vida, sin duda deberías ser miembro de Mingles! Para más información y unirte la comunidad únete a nuestro <a class="link link--about" href="https://discord.gg/P2aGSpg8cr" target="_blank" rel="noreferrer">Discord</a>
+Nuestra meta es ser la herramienta que transforme la vida de las personas y expanda globalmente la sociedad y el talento Latinoamericano. ¡Si quieres obtener esa fluidez que tanto deseas para extender tus fronteras y expandir tus oportunidades en la vida, sin duda deberías ser miembro de Mingles! Para más información únete la comunidad en nuestro <a class="link link--about" href="https://discord.gg/P2aGSpg8cr" target="_blank" rel="noreferrer">Discord</a>
 
 `;
 
