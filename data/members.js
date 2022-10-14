@@ -3,7 +3,7 @@ import React from "react";
 const members = [
   {
     name: "Dario Chic",
-    position: "Founder - CEO",
+    position: "Founder",
     description: `Soy una persona curiosa, creativa, apasionada e innovadora que sueña con crear productos y servicios útiles y de cálidad a través de la tecnologia, productos y servicios que tengan un impacto positivo en el mundo y cambien la vida de las personas para mejor.`,
     pic: "/members/dariochic.webp",
     social: {
@@ -13,7 +13,7 @@ const members = [
   },
   {
     name: "Yoeli Vicent",
-    position: "Co-Founder - COO",
+    position: "Co-Founder",
     description: "...",
     pic: "/members/yoelivicent.webp",
     social: {
