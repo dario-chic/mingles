@@ -7,10 +7,10 @@ const Team = () => {
     <section
       className="team"
       id="team"
-      data-aos="fade-up"
-      data-aos-duration="800"
-      data-aos-delay="500"
-      data-aos-once="true"
+      // data-aos="fade-up"
+      // data-aos-duration="800"
+      // data-aos-delay="500"
+      // data-aos-once="true"
     >
       <h2 className="section__title team__title">A Passionate Team</h2>
       <div className="team__container">

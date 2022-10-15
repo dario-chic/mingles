@@ -5,10 +5,10 @@ const Section = ({ children, modifier, id }) => {
     <section
       className={`section section--${modifier}`}
       id={id}
-      data-aos="fade-up"
-      data-aos-duration="800"
-      data-aos-delay="500"
-      data-aos-once="true"
+      // data-aos="fade-up"
+      // data-aos-duration="800"
+      // data-aos-delay="500"
+      // data-aos-once="true"
     >
       <div className={`section__container section__container--${modifier}`}>
         {children}
