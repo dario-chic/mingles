@@ -92,14 +92,14 @@ export async function getStaticProps(context) {
   const article = context.params.article;
 
   const res = await fetch(
-    `https://www.minglesc.com/articles/${article}/articleInfo.json`
+    `https://mingles-git-main-dario-chic.vercel.app/articles/${article}/articleInfo.json`
   );
   const json = await res.json();
 
-  const guide = await fetch(`https://www.minglesc.com/${json.markdown}`);
+  const guide = await fetch(`https://mingles-git-main-dario-chic.vercel.app/${json.markdown}`);
   const markdown = await guide.text();
 
-  console.log(`https://www.minglesc.com${json.markdown}`);
+  console.log(`https://mingles-git-main-dario-chic.vercel.app${json.markdown}`);
 
   return {
     props: {
