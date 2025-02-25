@@ -1,34 +1,104 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+# Mingles
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Portada](https://raw.githubusercontent.com/dario-chic/mingles/refs/heads/main/banner.webp)
+![Badge](https://img.shields.io/badge/Status-Finished-brightgreen)
+![Badge](https://img.shields.io/badge/License-MIT-blue)
+## Table of contents
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- [Description](#description)
+- [Main features](#main-features)
+- [Tech Stack](#tech-stack)
+- [How to use](#how-to-use)
+- [Live demo](#live-demo)
+- [Contribution](#contribution)
+- [License](#license)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+  
+## Description
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+**Mingles**  is an educational and community-focused website designed to help people learn English effectively and for free. It was my first  **side project**, built with  **Next.js**, and it represents a significant milestone in my journey as a developer. While the project didn't reach its full potential, it taught me invaluable lessons not only about coding but also about leadership, organization, and content creation.
 
-To learn more about Next.js, take a look at the following resources:
+The website features:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   Informative articles written by me, displayed using  **Markdown**.
+    
+-   A community-driven approach to language learning.
+    
+-   Guides and resources based on professional research and polyglot methodologies.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+_💡This project was a turning point for me. It helped me grow not just as a developer but also as a leader and communicator. While it remains paused, I'm proud of what I accomplished and the skills I gained along the way._
 
-## Deploy on Vercel
+## Main Features
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Informative Articles
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The website features articles written by me, displayed using  **Markdown**. These articles cover topics like language learning methods, tips, and resources to help users improve their English skills.
+
+### Community-Driven Learning
+
+Mingles is designed to foster a sense of community among learners. Users can connect with others, share experiences, and support each other in their language-learning journey.
+
+### Resourceful Guides
+
+The  **School**  section provides guides based on professional research, personal experiences, and insights from top polyglots. These guides aim to teach users the most effective methods for learning languages.
+
+### Simple and Intuitive Design
+
+The website is designed to be user-friendly, with a clean and minimalist interface that makes it easy for users to navigate and find the information they need.
+
+## Tech Stack
+
+-   **Frontend:**
+    -   [Next.js](https://nextjs.org/)  (Framework)
+    -   [React](https://reactjs.org/)  (Library)
+    -   [Sass](https://sass-lang.com/)  (Styling)
+    -   [Markdown](https://www.markdownguide.org/)  (Content Formatting)
+        
+-   **Deployment:**
+    -   [Vercel](https://vercel.com/)  (Hosting)
+
+## How to use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/dario-chic/mingles.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd mingles
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+	 ```bash
+   npm run dev
+   ```
+
+## Live Demo
+
+[See live demo](https://mingles-git-main-dario-chic.vercel.app/)
+
+## Contribution
+
+
+Contributions are welcome! If you have ideas to improve this project, find a bug, or simply want to add a new feature, feel free to open an issue or submit a pull request. Thank you for your interest in contributing!
+
+1. Fork the project.
+2. Create a new branch (`git checkout -b feature/new-feature`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature/new-feature`).
+5. Open a Pull Request.
+
+## License 📜
+Distributed under the [MIT License](https://opensource.org/licenses/MIT). See LICENSE.txt for more information.
+
+---
+
+Made with ❤️ by [Dario Chic](https://github.com/dario-chic)  
+📧 Contact me: [contact@dariochic.dev](mailto:contact@dariochic.dev)  
+🔗 [LinkedIn](https://www.linkedin.com/in/dariochic/) | [Portfolio](https://dariochic.dev)
